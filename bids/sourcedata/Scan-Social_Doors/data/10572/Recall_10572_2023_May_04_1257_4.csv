@@ -1,0 +1,53 @@
+﻿instrText,Instructions.thisRepN,Instructions.thisTrialN,Instructions.thisN,Instructions.thisIndex,Func,Keys,Text,RespTime,Onset,Offset,SystemTime_Start,SystemTime_Stop,Participant*,Age,date,expName,psychopyVersion,frameRate,
+"In the earlier Feedback Games, you chose which doors contained a prize, and which peers liked you. 
+
+You then saw positive or negative feedback (green check mark or red X) from the door or peer you selected.
+
+You will now see a series of doors and peers, some of which you saw during the earlier Feedback Games, and some that you have never seen before.
+
+Please press the spacebar to continue.",0,0,0,0,instrFunc,space,"In the earlier Feedback Games, you chose which doors contained a prize, and which peers liked you. 
+
+You then saw positive or negative feedback (green check mark or red X) from the door or peer you selected.
+
+You will now see a series of doors and peers, some of which you saw during the earlier Feedback Games, and some that you have never seen before.
+
+Please press the spacebar to continue.",26.189830699935555,26.432957000099123,52.711936600506306,2023-05-04 12:57:28.418994,2023-05-04 12:57:54.696342,10572,70-89+,2023_May_04_1257,Recall,2021.2.3,59.939892348585026,
+"For doors/peers that you remember selecting and getting feedback from, your job is to RECALL what feedback you received. 
+
+Press '1' if you recall positive feedback. 
+
+Press '2' if you recall negative feedback
+
+Press the spacebar to continue.",0,1,1,1,instrFunc,space,"For doors/peers that you remember selecting and getting feedback from, your job is to RECALL what feedback you received. 
+
+Press '1' if you recall positive feedback. 
+
+Press '2' if you recall negative feedback
+
+Press the spacebar to continue.",33.147403199691325,52.66732789995149,85.86635750019923,2023-05-04 12:57:54.697289,2023-05-04 12:58:27.886210,10572,70-89+,2023_May_04_1257,Recall,2021.2.3,59.939892348585026,
+"For doors/peers that you don't remember getting feedback from, your job is to PREDICT what feedback you WOULD HAVE received.
+
+Press '9' if you predict positive feedback.
+
+Press '0' if you predict negative feedback. 
+
+Please press the spacebar to continue.",0,2,2,2,instrFunc,space,"For doors/peers that you don't remember getting feedback from, your job is to PREDICT what feedback you WOULD HAVE received.
+
+Press '9' if you predict positive feedback.
+
+Press '0' if you predict negative feedback. 
+
+Please press the spacebar to continue.",20.53157679969445,85.85910550039262,106.4495131005533,2023-05-04 12:58:27.887215,2023-05-04 12:58:48.467410,10572,70-89+,2023_May_04_1257,Recall,2021.2.3,59.939892348585026,
+"This task is self-paced, and the prompts will always stay on the screen so that you know which buttons to press.
+
+On the next screen we will show you what those prompts look like, so that you know exactly what to expect. 
+
+You will start with either doors or peers, and then switch halfway through. 
+
+Please press the spacebar to continue.",0,3,3,3,instrFunc,space,"This task is self-paced, and the prompts will always stay on the screen so that you know which buttons to press.
+
+On the next screen we will show you what those prompts look like, so that you know exactly what to expect. 
+
+You will start with either doors or peers, and then switch halfway through. 
+
+Please press the spacebar to continue.",16.232239400036633,106.43843320012093,122.72713740030304,2023-05-04 12:58:48.468415,2023-05-04 12:59:04.746419,10572,70-89+,2023_May_04_1257,Recall,2021.2.3,59.939892348585026,

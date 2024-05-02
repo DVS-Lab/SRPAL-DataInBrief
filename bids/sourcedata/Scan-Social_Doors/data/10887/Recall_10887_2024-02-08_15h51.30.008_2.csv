@@ -1,0 +1,68 @@
+﻿instrText,Instructions.thisRepN,Instructions.thisTrialN,Instructions.thisN,Instructions.thisIndex,Trials.thisRepN,Trials.thisTrialN,Trials.thisN,Trials.thisIndex,stimDoor,stimDoorLure,stimFace,stimFaceLure,Func,Keys,Text,RespTime,Onset,Offset,SystemTime_Start,SystemTime_Stop,Participant*,Age,date,expName,psychopyVersion,frameRate,
+"In the earlier Feedback Games, you chose which doors contained a prize, and which peers liked you. 
+
+You then saw positive or negative feedback (green check mark or red X) from the door or peer you selected.
+
+You will now see a series of doors and peers, some of which you saw during the earlier Feedback Games, and some that you have never seen before.
+
+Please press the spacebar to continue.",0,0,0,0,,,,,,,,,instrFunc,space,"In the earlier Feedback Games, you chose which doors contained a prize, and which peers liked you. 
+
+You then saw positive or negative feedback (green check mark or red X) from the door or peer you selected.
+
+You will now see a series of doors and peers, some of which you saw during the earlier Feedback Games, and some that you have never seen before.
+
+Please press the spacebar to continue.",17.964209099998698,15.245175599993672,33.28215521997481,2024-02-08 15:51:32.288820,2024-02-08 15:51:50.324107,10887,30-49,2024-02-08_15h51.30.008,Recall,2021.2.3,59.956747204762834,
+"For doors/peers that you remember selecting and getting feedback from, your job is to RECALL what feedback you received. 
+
+Press '1' if you recall positive feedback. 
+
+Press '2' if you recall negative feedback
+
+Press the spacebar to continue.",0,1,1,1,,,,,,,,,instrFunc,space,"For doors/peers that you remember selecting and getting feedback from, your job is to RECALL what feedback you received. 
+
+Press '1' if you recall positive feedback. 
+
+Press '2' if you recall negative feedback
+
+Press the spacebar to continue.",12.203094800002873,33.262405400004354,45.52341785997851,2024-02-08 15:51:50.325105,2024-02-08 15:52:02.571867,10887,30-49,2024-02-08_15h51.30.008,Recall,2021.2.3,59.956747204762834,
+"For doors/peers that you don't remember getting feedback from, your job is to PREDICT what feedback you WOULD HAVE received.
+
+Press '9' if you predict positive feedback.
+
+Press '0' if you predict negative feedback. 
+
+Please press the spacebar to continue.",0,2,2,2,,,,,,,,,instrFunc,space,"For doors/peers that you don't remember getting feedback from, your job is to PREDICT what feedback you WOULD HAVE received.
+
+Press '9' if you predict positive feedback.
+
+Press '0' if you predict negative feedback. 
+
+Please press the spacebar to continue.",10.339754500004346,45.509609500004444,55.90456505998736,2024-02-08 15:52:02.573826,2024-02-08 15:52:12.955016,10887,30-49,2024-02-08_15h51.30.008,Recall,2021.2.3,59.956747204762834,
+"This task is self-paced, and the prompts will always stay on the screen so that you know which buttons to press.
+
+On the next screen we will show you what those prompts look like, so that you know exactly what to expect. 
+
+You will start with either doors or peers, and then switch halfway through. 
+
+Please press the spacebar to continue.",0,3,3,3,,,,,,,,,instrFunc,space,"This task is self-paced, and the prompts will always stay on the screen so that you know which buttons to press.
+
+On the next screen we will show you what those prompts look like, so that you know exactly what to expect. 
+
+You will start with either doors or peers, and then switch halfway through. 
+
+Please press the spacebar to continue.",14.240181199988001,55.88112389999151,70.17621285999485,2024-02-08 15:52:12.957011,2024-02-08 15:52:27.237722,10887,30-49,2024-02-08_15h51.30.008,Recall,2021.2.3,59.956747204762834,
+,,,,,,,,,,,,,imgtextFunc,space,"Here is what the screen will look like while you make your ratings.
+The green circles remind you to press 1 or 9 for positive feedback.
+The red circles remind you to press 2 or 0 for negative feedback.
+
+
+
+
+
+
+
+
+
+Please let the experimenter know if you have any questions.
+
+Whenever you're ready, press the spacebar to start the task.",24.82667080000101,70.383012899998,95.44926536000276,2024-02-08 15:52:27.252978,2024-02-08 15:52:52.319165,10887,30-49,2024-02-08_15h51.30.008,Recall,2021.2.3,59.956747204762834,

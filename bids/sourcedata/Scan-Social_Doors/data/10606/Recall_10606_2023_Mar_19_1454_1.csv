@@ -1,0 +1,71 @@
+﻿instrText,Instructions.thisRepN,Instructions.thisTrialN,Instructions.thisN,Instructions.thisIndex,Trials.thisRepN,Trials.thisTrialN,Trials.thisN,Trials.thisIndex,stimDoor,stimDoorLure,stimFace,stimFaceLure,Func,Keys,Text,RespTime,Onset,Offset,SystemTime_Start,SystemTime_Stop,Participant*,Age,date,expName,psychopyVersion,frameRate,
+"In the earlier Feedback Games, you chose which doors contained a prize, and which peers liked you. 
+
+You then saw positive or negative feedback (green check mark or red X) from the door or peer you selected.
+
+You will now see a series of doors and peers, some of which you saw during the earlier Feedback Games, and some that you have never seen before.
+
+Please press the spacebar to continue.",0,0,0,0,,,,,,,,,instrFunc,space,"In the earlier Feedback Games, you chose which doors contained a prize, and which peers liked you. 
+
+You then saw positive or negative feedback (green check mark or red X) from the door or peer you selected.
+
+You will now see a series of doors and peers, some of which you saw during the earlier Feedback Games, and some that you have never seen before.
+
+Please press the spacebar to continue.",51.518288099672645,38.80520909978077,90.45672590611503,2023-03-19 14:54:33.207667,2023-03-19 14:55:24.848975,10606,18-29,2023_Mar_19_1454,Recall,2021.2.3,59.95577656166032,
+"For doors/peers that you remember selecting and getting feedback from, your job is to RECALL what feedback you received. 
+
+Press '1' if you recall positive feedback. 
+
+Press '2' if you recall negative feedback
+
+Press the spacebar to continue.",0,1,1,1,,,,,,,,,instrFunc,space,"For doors/peers that you remember selecting and getting feedback from, your job is to RECALL what feedback you received. 
+
+Press '1' if you recall positive feedback. 
+
+Press '2' if you recall negative feedback
+
+Press the spacebar to continue.",13.65009759971872,90.3855545995757,104.1085978099145,2023-03-19 14:55:24.850470,2023-03-19 14:55:38.564331,10606,18-29,2023_Mar_19_1454,Recall,2021.2.3,59.95577656166032,
+"For doors/peers that you don't remember getting feedback from, your job is to PREDICT what feedback you WOULD HAVE received.
+
+Press '9' if you predict positive feedback.
+
+Press '0' if you predict negative feedback. 
+
+Please press the spacebar to continue.",0,2,2,2,,,,,,,,,instrFunc,space,"For doors/peers that you don't remember getting feedback from, your job is to PREDICT what feedback you WOULD HAVE received.
+
+Press '9' if you predict positive feedback.
+
+Press '0' if you predict negative feedback. 
+
+Please press the spacebar to continue.",16.70350999990478,104.10016919998452,120.87256900966167,2023-03-19 14:55:38.566242,2023-03-19 14:55:55.329366,10606,18-29,2023_Mar_19_1454,Recall,2021.2.3,59.95577656166032,
+"This task is self-paced, and the prompts will always stay on the screen so that you know which buttons to press.
+
+On the next screen we will show you what those prompts look like, so that you know exactly what to expect. 
+
+You will start with either doors or peers, and then switch halfway through. 
+
+Please press the spacebar to continue.",0,3,3,3,,,,,,,,,instrFunc,space,"This task is self-paced, and the prompts will always stay on the screen so that you know which buttons to press.
+
+On the next screen we will show you what those prompts look like, so that you know exactly what to expect. 
+
+You will start with either doors or peers, and then switch halfway through. 
+
+Please press the spacebar to continue.",15.904781099874526,120.85077689960599,136.80771330930293,2023-03-19 14:55:55.331364,2023-03-19 14:56:11.277764,10606,18-29,2023_Mar_19_1454,Recall,2021.2.3,59.95577656166032,
+,,,,,,,,,,,,,imgtextFunc,space,"Here is what the screen will look like while you make your ratings.
+
+The green circles remind you to press 1 or 9 for positive feedback.
+
+The red circles remind you to press 2 or 0 for positive feedback.
+
+
+
+
+
+
+
+
+
+
+Please let the experimenter know if you have any questions.
+
+Whenever you're ready, press the spacebar to start the task.",24.135702200233936,137.00385379977524,161.375070319511,2023-03-19 14:56:11.297064,2023-03-19 14:56:35.658751,10606,18-29,2023_Mar_19_1454,Recall,2021.2.3,59.95577656166032,

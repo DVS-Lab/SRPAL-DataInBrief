@@ -1,0 +1,20 @@
+# Summary
+This is a preliminary release of a dataset supported by the National Institutes of Aging. The full dataset is described in a submission to Data in Brief.
+
+# Abstract
+(need to fill in here)
+
+# Expanded Task Names
+1. *doors and socialdoors*: a task in which participants received well-matched social and monetary rewards and punishment;
+2. *ugdg*: a strategic reward-based decision-making task with Ultimatum and Dictator Game conditions
+3. *trust*: a task where participants choose an amount to invest in their partner (friend, stranger, or computer) and see wether or not that partner shared the tripled amount back
+4. *sharedreward*: a task where participants shared rewards or losses with peers, strangers, or non-human partners
+
+
+# Additional Usage Notes
+
+The sourcedata directory contains the subdirectory 'redcap'. This subdirectory contains .txt files that includes all collected behavioral data, including data for participants who do not have fMRI data. 
+
+We note that #XX of the #XX participants are missing dwi. This is due to chiller malfunctions during the sequence that halted data collection. We also note that not all participants have two runs of each task. This was due to time constraints during the scan visits. Finally we note that subjects X## and X## underwent shortended scan protocols that exluded the socialdoors and trust tasks. 
+
+Code related to this dataset can be found on GitHub (place link here when final repo is uploaded). This includes sourcedata for the scanner tasks and file generation scripts. 
