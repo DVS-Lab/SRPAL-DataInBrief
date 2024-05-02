@@ -1,5 +1,5 @@
 # Summary
-This is a preliminary release of a dataset supported by the National Institutes of Aging. The full dataset is described in a submission to Data in Brief.
+This is a preliminary release of a dataset supported by the National Institutes of Aging and National Insitutes of Health. The full dataset is described in a submission to Data in Brief.
 
 # Abstract
 (need to fill in here)
@@ -13,8 +13,6 @@ This is a preliminary release of a dataset supported by the National Institutes 
 
 # Additional Usage Notes
 
-The sourcedata directory contains the subdirectory 'redcap'. This subdirectory contains .txt files that includes all collected behavioral data, including data for participants who do not have fMRI data. 
+We note that participants 10584, 10951, and 11005 are missing dwi. This is due to chiller malfunctions during the sequence that halted data collection. We also note that not all participants have two runs of each task. This was due to time constraints during the scan visits.
 
-We note that #XX of the #XX participants are missing dwi. This is due to chiller malfunctions during the sequence that halted data collection. We also note that not all participants have two runs of each task. This was due to time constraints during the scan visits. Finally we note that subjects X## and X## underwent shortended scan protocols that exluded the socialdoors and trust tasks. 
-
-Code related to this dataset can be found on GitHub (place link here when final repo is uploaded). This includes sourcedata for the scanner tasks and file generation scripts. 
+Code related to this dataset can be found on GitHub (https://github.com/DVS-Lab/SRPAL-DataInBrief/code/).
