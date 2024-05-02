@@ -1,0 +1,68 @@
+#!/bin/bash
+
+# Loop through all directories matching the pattern
+for dir in /ZPOOL/data/projects/rf1-datapaper-dev/bids/sub-*/func/; do
+    # Extract the subject ID from the directory path
+    sub_id=$(basename $(dirname "$dir"))
+    
+    # Create the events JSON file for each task and run
+    for task in trust socialdoors doors ugr; do
+        nruns=2 # Default number of runs
+        
+        # Adjust the number of runs based on the task
+        if [[ "$task" == "socialdoors" || "$task" == "doors" ]]; then
+            nruns=1
+        fi
+        
+        # Create the events JSON file for each run of the current task
+        for ((i = 1; i <= $nruns; i++)); do
+            filename="sub-${sub_id}_task-${task}_run-${i}_events.json"
+            touch "${dir}${filename}"
+            echo "Created ${dir}${filename}"
+            
+            # If the task is "trust", print the specified information into the file
+            if [[ "$task" == "trust" ]]; then
+                cat <<EOF > "${dir}${filename}"
+{
+    "trust_value": {
+        "LongName": "Trust Value", 
+        "Description": "The amount that the participant decided to invest in the partner.",
+        "Levels": {
+            "0": "The participant invested \$0.00",
+            "2": "The participant invested \$2.00",
+            "4": "The participant invested \$4.00",
+            "8": "The participant invested \$8.00"
+        }
+    },
+    "choice": {
+        "LongName": "Choice", 
+        "Description": "Denotes whether the participant chose to invest the higher or lower value. Choosing to invest \$8 rather than \$2 would result in a response of 'high'.",
+        "Levels": {
+            "high": "The participant invested the greater amount",
+            "low": "The participant invested the lesser amount"
+            }
+    },
+    "cLow": {
+        "LongName": "Choice Low", 
+        "Description": "The lowest amount the participant is able to invest in the partner for a given trial.",
+        "Levels": {
+            "0": "The participant invested \$0.00",
+            "2": "The participant invested \$2.00",
+            "4": "The participant invested \$4.00"
+                }
+    },
+    "cHigh": {
+        "LongName": "Choice High", 
+        "Description": "The highest amount the participant is able to invest in the partner for a given trial.",
+        "Levels": {
+            "2": "The participant invested \$2.00",
+            "4": "The participant invested \$4.00",
+            "8": "The participant invested \$8.00"
+        }
+    }
+}
+EOF
+            fi
+        done
+    done
+done
