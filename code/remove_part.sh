@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set the root directory where sub-* directories are located
-root_dir="/ZPOOL/data/projects/rf1-datapaper-dev/bids"
+root_dir="/ZPOOL/data/projects/SRPAL-DataInBrief/bids"
 
 # Loop through each subject directory (sub-*) in the root directory
 for subject_dir in "$root_dir"/sub-*; do

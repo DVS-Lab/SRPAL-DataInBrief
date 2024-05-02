@@ -5,7 +5,7 @@ maindir = pwd;
 input_file_path = fullfile(usedir,'bids','sourcedata','Scan-Social_Doors','data');
 warning off all
 
-subs = load('sublist_test.txt');
+subs = load('sublist_all.txt');
 
 tasks = {'facesA1', 'facesA2','facesA3','facesA4',...
     'facesB1','facesB2','facesB3','facesB4',...

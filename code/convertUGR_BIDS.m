@@ -10,7 +10,7 @@ usedir = pathstr;
 codedir = pwd;
 maindir = fullfile(usedir,'bids','sourcedata','Scan-Lets_Make_A_Deal')
 
-sublist = fullfile(codedir,'sublist_test.txt');
+sublist = fullfile(codedir,'sublist_all.txt');
 
 subjects = table2array(readtable(sublist));
 

@@ -4,7 +4,7 @@ usedir = pathstr;
 codedir = pwd;
 rawdata = fullfile(usedir, 'bids', 'sourcedata', 'Scan-Investment_Game', 'logs');
 
-sublist_file = fullfile(codedir, 'sublist_test.txt');
+sublist_file = fullfile(codedir, 'sublist_all.txt');
 subjects = table2array(readtable(sublist_file));
 
 for ii = 1:length(subjects)

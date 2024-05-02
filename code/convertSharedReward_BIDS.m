@@ -5,7 +5,7 @@ codedir = pwd;
 maindir = fullfile(usedir,'bids','sourcedata','Scan-Lets_Make_A_Deal')
 logdir = fullfile(usedir,'bids','sourcedata','Scan-Card_Guessing_Game','logs')
 
-subs = load('sublist_test.txt');
+subs = load('sublist_all.txt');
 
 % make default output
 out.ntrials(1) = 0;
