@@ -1,0 +1,3 @@
+onset	duration	trial_type	rt	resp	gender	image_left	image_right
+0.7190396999940276	3.0068580999504775	decision	1.0318001999985427	left	M	MF001.jpg	MF002.jpg
+4.267327999928966	1.0163049001712352	win	n/a	n/a	n/a	MF001.jpg	MF002.jpg

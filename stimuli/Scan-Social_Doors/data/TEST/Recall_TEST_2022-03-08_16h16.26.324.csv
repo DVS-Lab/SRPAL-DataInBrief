@@ -1,0 +1,89 @@
+﻿instrText,Instructions.thisRepN,Instructions.thisTrialN,Instructions.thisN,Instructions.thisIndex,Trials.thisRepN,Trials.thisTrialN,Trials.thisN,Trials.thisIndex,stimDoor,stimDoorLure,stimFace,stimFaceLure,Func,Keys,Text,RespTime,Onset,Offset,SystemTime_Start,SystemTime_Stop,Participant*,date,expName,psychopyVersion,frameRate,
+"Thank you for participating in our study!
+
+ In the earlier picture task, you guessed which doors contained a prize, and which peers liked you. 
+
+ You then saw positive or negative feedback (green up arrow or red down arrow) from the door or peer you selected.
+
+ The green up arrow indicated that the door contained a prize, or that the peer liked you. 
+
+ The red down arrow indicated that the door contained a loss, or that the peer disliked you. 
+
+  Please press the spacebar to continue.",0,0,0,0,,,,,,,,,instrFunc,space,"Thank you for participating in our study!
+
+ In the earlier picture task, you guessed which doors contained a prize, and which peers liked you. 
+
+ You then saw positive or negative feedback (green up arrow or red down arrow) from the door or peer you selected.
+
+ The green up arrow indicated that the door contained a prize, or that the peer liked you. 
+
+ The red down arrow indicated that the door contained a loss, or that the peer disliked you. 
+
+  Please press the spacebar to continue.",15.473995900247246,13.431444600224495,28.970846639946103,2022-03-08 16:16:28.388090,2022-03-08 16:16:43.919980,TEST,2022-03-08_16h16.26.324,Recall,2021.2.3,60.047040944433085,
+"You will now see a series of doors and peers, some of which you saw during the earlier picture task, and some which you have never seen before.
+
+ For doors/peers that you remember getting feedback from, your job is to RECALL whether that door or peer gave you positive or negative feedback. 
+
+ Press '1' to indicate that you recall positive feedback. 
+
+ Press '2' to indicate that you recall negative feedback.
+
+ You will see a green and red circle under the word 'RECALL' on the left side of the screen to remind you what to press. 
+
+ Press the spacebar to continue.",0,1,1,1,,,,,,,,,instrFunc,space,"You will now see a series of doors and peers, some of which you saw during the earlier picture task, and some which you have never seen before.
+
+ For doors/peers that you remember getting feedback from, your job is to RECALL whether that door or peer gave you positive or negative feedback. 
+
+ Press '1' to indicate that you recall positive feedback. 
+
+ Press '2' to indicate that you recall negative feedback.
+
+ You will see a green and red circle under the word 'RECALL' on the left side of the screen to remind you what to press. 
+
+ Press the spacebar to continue.",3.1207543001510203,28.949032799806446,32.12624938972294,2022-03-08 16:16:43.920974,2022-03-08 16:16:47.084445,TEST,2022-03-08_16h16.26.324,Recall,2021.2.3,60.047040944433085,
+"For doors/peers that you don't remember getting feedback from, your job is to PREDICT whether you think that door or peer WOULD HAVE given you positive or negative feedback. 
+
+ Press '9' if you predict that you would have received positive feedback.
+
+ Press '0' if you predict that you would have received negative feedback. 
+
+ You will see a green and red circle under the word 'PREDICT' on the right side of the screen to remind you what to press. 
+
+ Please press the spacebar to continue.",0,2,2,2,,,,,,,,,instrFunc,space,"For doors/peers that you don't remember getting feedback from, your job is to PREDICT whether you think that door or peer WOULD HAVE given you positive or negative feedback. 
+
+ Press '9' if you predict that you would have received positive feedback.
+
+ Press '0' if you predict that you would have received negative feedback. 
+
+ You will see a green and red circle under the word 'PREDICT' on the right side of the screen to remind you what to press. 
+
+ Please press the spacebar to continue.",1.4825316998176277,32.10868969978765,33.65319558978081,2022-03-08 16:16:47.086443,2022-03-08 16:16:48.616319,TEST,2022-03-08_16h16.26.324,Recall,2021.2.3,60.047040944433085,
+"This task is self-paced, and the prompts will always stay on the screen so that you know which buttons to press. 
+
+ On the next screen we will show you what those prompts look like, so that you know exactly what to expect. 
+
+  You will start with either doors or peers, and then switch halfway through. 
+
+ Please press the spacebar to continue.",0,3,3,3,,,,,,,,,instrFunc,space,"This task is self-paced, and the prompts will always stay on the screen so that you know which buttons to press. 
+
+ On the next screen we will show you what those prompts look like, so that you know exactly what to expect. 
+
+  You will start with either doors or peers, and then switch halfway through. 
+
+ Please press the spacebar to continue.",1.5857025999575853,33.62579429987818,35.25376279000193,2022-03-08 16:16:48.617322,2022-03-08 16:16:50.231144,TEST,2022-03-08_16h16.26.324,Recall,2021.2.3,60.047040944433085,
+,,,,,,,,,,,,,imgtextFunc,space,"Here is what the screen will look like while you go through all of the doors and peers.
+
+Please let the experimenter know if you have any questions.
+
+
+
+
+
+
+
+
+
+
+Remember to keep your hands on the keyboard at all times.
+
+ Whenever you're ready, press the spacebar to start the task.",12.20569789968431,35.484032299835235,47.95251588989049,2022-03-08 16:16:50.242121,2022-03-08 16:17:02.706180,TEST,2022-03-08_16h16.26.324,Recall,2021.2.3,60.047040944433085,

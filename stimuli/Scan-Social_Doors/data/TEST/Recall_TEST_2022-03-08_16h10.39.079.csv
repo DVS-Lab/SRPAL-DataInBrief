@@ -1,0 +1,97 @@
+﻿instrText,stimDoor,stimDoorLure,stimFace,stimFaceLure,Instructions.thisRepN,Instructions.thisTrialN,Instructions.thisN,Instructions.thisIndex,Trials.thisRepN,Trials.thisTrialN,Trials.thisN,Trials.thisIndex,Func,Keys,Text,RespTime,Onset,Offset,SystemTime_Start,SystemTime_Stop,Stim,Lure,Participant*,date,expName,psychopyVersion,frameRate,
+"Thank you for participating in our study!
+
+ In the earlier picture task, you guessed which doors contained a prize, and which peers liked you. 
+
+ You then saw positive or negative feedback (green up arrow or red down arrow) from the door or peer you selected.
+
+ The green up arrow indicated that the door contained a prize, or that the peer liked you. 
+
+ The red down arrow indicated that the door contained a loss, or that the peer disliked you. 
+
+  Please press the spacebar to continue.",,,,,0,0,0,0,,,,,instrFunc,space,"Thank you for participating in our study!
+
+ In the earlier picture task, you guessed which doors contained a prize, and which peers liked you. 
+
+ You then saw positive or negative feedback (green up arrow or red down arrow) from the door or peer you selected.
+
+ The green up arrow indicated that the door contained a prize, or that the peer liked you. 
+
+ The red down arrow indicated that the door contained a loss, or that the peer disliked you. 
+
+  Please press the spacebar to continue.",5.751943400129676,21.77738599991426,27.62035943940282,2022-03-08 16:10:41.115291,2022-03-08 16:10:46.943495,,,TEST,2022-03-08_16h10.39.079,Recall,2021.2.3,60.04862731525677,
+"You will now see a series of doors and peers, some of which you saw during the earlier picture task, and some which you have never seen before.
+
+ For doors/peers that you remember getting feedback from, your job is to RECALL whether that door or peer gave you positive or negative feedback. 
+
+ Press '1' to indicate that you recall positive feedback. 
+
+ Press '2' to indicate that you recall negative feedback.
+
+ You will see a green and red circle under the word 'RECALL' on the left side of the screen to remind you what to press. 
+
+ Press the spacebar to continue.",,,,,0,1,1,1,,,,,instrFunc,space,"You will now see a series of doors and peers, some of which you saw during the earlier picture task, and some which you have never seen before.
+
+ For doors/peers that you remember getting feedback from, your job is to RECALL whether that door or peer gave you positive or negative feedback. 
+
+ Press '1' to indicate that you recall positive feedback. 
+
+ Press '2' to indicate that you recall negative feedback.
+
+ You will see a green and red circle under the word 'RECALL' on the left side of the screen to remind you what to press. 
+
+ Press the spacebar to continue.",2.9333580997772515,27.58265110012144,30.593051330186427,2022-03-08 16:10:46.945496,2022-03-08 16:10:49.941166,,,TEST,2022-03-08_16h10.39.079,Recall,2021.2.3,60.04862731525677,
+"For doors/peers that you don't remember getting feedback from, your job is to PREDICT whether you think that door or peer WOULD HAVE given you positive or negative feedback. 
+
+ Press '9' if you predict that you would have received positive feedback.
+
+ Press '0' if you predict that you would have received negative feedback. 
+
+ You will see a green and red circle under the word 'PREDICT' on the right side of the screen to remind you what to press. 
+
+ Please press the spacebar to continue.",,,,,0,2,2,2,,,,,instrFunc,space,"For doors/peers that you don't remember getting feedback from, your job is to PREDICT whether you think that door or peer WOULD HAVE given you positive or negative feedback. 
+
+ Press '9' if you predict that you would have received positive feedback.
+
+ Press '0' if you predict that you would have received negative feedback. 
+
+ You will see a green and red circle under the word 'PREDICT' on the right side of the screen to remind you what to press. 
+
+ Please press the spacebar to continue.",1.489277800079435,30.575850800145417,32.13712892960757,2022-03-08 16:10:49.943168,2022-03-08 16:10:51.489611,,,TEST,2022-03-08_16h10.39.079,Recall,2021.2.3,60.04862731525677,
+"This task is self-paced, and the prompts will always stay on the screen so that you know which buttons to press. 
+
+ On the next screen we will show you what those prompts look like, so that you know exactly what to expect. 
+
+  You will start with either doors or peers, and then switch halfway through. 
+
+ Please press the spacebar to continue.",,,,,0,3,3,3,,,,,instrFunc,space,"This task is self-paced, and the prompts will always stay on the screen so that you know which buttons to press. 
+
+ On the next screen we will show you what those prompts look like, so that you know exactly what to expect. 
+
+  You will start with either doors or peers, and then switch halfway through. 
+
+ Please press the spacebar to continue.",1.898584600072354,32.10401610005647,34.048077430110425,2022-03-08 16:10:51.491615,2022-03-08 16:10:53.420819,,,TEST,2022-03-08_16h10.39.079,Recall,2021.2.3,60.04862731525677,
+,,,,,,,,,,,,,imgtextFunc,space,"Here is what the screen will look like while you go through all of the doors and peers.
+
+Please let the experimenter know if you have any questions.
+
+
+
+
+
+
+
+
+
+
+
+Remember to keep your hands on the keyboard at all times.
+
+ Whenever you're ready, press the spacebar to start the task.",10.383388699963689,34.2915596999228,44.957871629390866,2022-03-08 16:10:53.433456,2022-03-08 16:11:04.096810,,,TEST,2022-03-08_16h10.39.079,Recall,2021.2.3,60.04862731525677,
+,DD025.jpg,0,FF025.jpg,0,,,,,0,0,0,24,imgFunc,1,NA,2.199808199889958,44.89907279983163,47.26447358960286,2022-03-08 16:11:04.145773,2022-03-08 16:11:06.511037,FF025.jpg,0,TEST,2022-03-08_16h10.39.079,Recall,2021.2.3,60.04862731525677,
+,L_SD511.jpg,1,L_MF511.jpg,1,,,,,0,1,1,110,imgFunc,2,NA,0.13863080041483045,47.24847019976005,47.53684602957219,2022-03-08 16:11:06.525005,2022-03-08 16:11:06.810561,L_MF511.jpg,1,TEST,2022-03-08_16h10.39.079,Recall,2021.2.3,60.04862731525677,
+,SD034.jpg,0,MF034.jpg,0,,,,,0,2,2,93,imgFunc,0,NA,1.3656049999408424,47.536753199994564,49.046858930028975,2022-03-08 16:11:06.821546,2022-03-08 16:11:08.325814,MF034.jpg,0,TEST,2022-03-08_16h10.39.079,Recall,2021.2.3,60.04862731525677,
+,SD003.jpg,0,MF003.jpg,0,,,,,0,3,3,62,imgFunc,0,NA,0.12933599995449185,49.05519830016419,49.32677763001993,2022-03-08 16:11:08.339716,2022-03-08 16:11:08.609029,MF003.jpg,0,TEST,2022-03-08_16h10.39.079,Recall,2021.2.3,60.04862731525677,
+,SD030.jpg,0,MF030.jpg,0,,,,,0,4,4,89,imgFunc,9,NA,0.0942706000059843,49.33015829976648,49.557002829853445,2022-03-08 16:11:08.620486,2022-03-08 16:11:08.842149,MF030.jpg,0,TEST,2022-03-08_16h10.39.079,Recall,2021.2.3,60.04862731525677,
+,DD018.jpg,0,FF018.jpg,0,,,,,0,5,5,17,imgFunc,0,NA,0.018277100287377834,49.56720469985157,49.72661972977221,2022-03-08 16:11:08.854123,2022-03-08 16:11:09.008712,FF018.jpg,0,TEST,2022-03-08_16h10.39.079,Recall,2021.2.3,60.04862731525677,
+,DD021.jpg,0,FF021.jpg,0,,,,,0,6,6,20,imgFunc,9,NA,0.022645600140094757,49.74402979994193,49.919180060271174,2022-03-08 16:11:09.029320,2022-03-08 16:11:09.191886,FF021.jpg,0,TEST,2022-03-08_16h10.39.079,Recall,2021.2.3,60.04862731525677,

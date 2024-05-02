@@ -1,0 +1,40 @@
+library("readxl")
+library("ggplot2")
+library("ggpubr")
+library("reshape2")
+library("emmeans")
+library("hrbrthemes")
+library("umx")
+library("interactions")
+library("car")
+library("dplyr")
+
+library (tidyverse)
+library(rstatix)
+library(reshape)
+library(datarium)
+
+setwd("C:/Users/tup54227/Documents/GitHub/rf1-sra/stimuli/Scan-Card_Guessing_Game")
+maindir <- getwd()
+
+# import data
+#here()
+srpr <- read_csv("srpr.csv")
+
+res.aov <- anova_test(
+  data = srpr, dv = Rating, wid = sub,
+  within = c(partner, Outcome)
+)
+get_anova_table(res.aov)
+
+pair<-srpr %>% 
+  pairwise_t_test(Rating~partner,paired=TRUE, p.adjust.method = "bonferroni" ) 
+data.frame(pair)
+
+pwc <- srpr %>%
+  group_by(Outcome) %>%
+  pairwise_t_test(
+    Rating ~ partner, paired = TRUE,
+    p.adjust.method = "fdr"
+  )
+data.frame(pwc)
