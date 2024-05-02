@@ -1,0 +1,20 @@
+{
+    "trial_type": {
+        "LongName": "Trial Type",
+        "Description": "Type of trial",
+        "Levels": {
+            "stranger_face": "The participant is shown that they will be playing with the stranger.",
+            "event_stranger_neutral": "The participant experienced a neutral outcome during the outcome phase with the stranger.",
+            "event_stranger_reward": "The participant experienced a reward outcome during the outcome phase with the stranger.",
+            "event_stranger_punish": "The participant experienced a punishment outcome during the outcome phase with the stranger.",
+            "computer_non-faceclea": "The participant is shown that they will be playing with the computer.",
+            "event_computer_neutral": "The participant experienced a neutral outcome during the outcome phase with the computer.",
+            "event_computer_reward": "The participant experienced a neutral outcome during the outcome phase with the computer.",
+            "event_compter_punish": "The participant experienced a neutral outcome during the outcome phase with the computer.",
+            "friend_face": "The participant is shown that they will be playing with the friend.",
+            "event_friend_neutral": "The participant experienced a neutral outcome during the outcome phase with the friend.",
+            "event_friend_reward": "The participant experienced a neutral outcome during the outcome phase with the friend.",
+            "event_friend_punish": "The participant experienced a neutral outcome during the outcome phase with the friend."
+        }
+    }
+}

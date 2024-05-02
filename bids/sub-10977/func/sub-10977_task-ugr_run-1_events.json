@@ -1,0 +1,68 @@
+{
+    "trial_type": {
+        "LongName": "Trial Type",
+        "Description": "Type of trial",
+        "Levels": {
+            "cue_social": "The participant is playing the current round with a stranger.",
+            "cue_social_low": "The participant is playing the current round with a stranger who was endowed 16 dollars.",
+            "cue_social_high": "The participant is playing the current round with a stranger who was endowed 32 dollars.",
+            "cue_nonsocial": "The participant is playing the current round with the computer.",
+            "cue_nonsocial_low": "The participant is playing the current round with the computer who was endowed 16 dollars.",
+            "cue_nonsocial_high": "The participant is playing the current round with the computer who was endowed 32 dollars.",
+            "dec_accept": "The participant accepted the offer.",
+            "dec_reject": "The participant rejected the offer.",
+            "dec_choice": "Participant decision during choice phase.",
+            "dec_nonsocial_choice": "Participant decision during nonsocial choice phase.",
+            "dec_nonsocial_low": "Participant is playing the current round with the computer that was endowed 16 dollars.",
+            "dec_nonsocial_high": "Participant is playing the current round with the computer that was endowed 32 dollars.",
+            "dec_nonsocial_accept": "Participant accepted the offer while playing with the computer.",
+            "dec_nonsocial_accept_low": "Participant accepted the offer during the current round with the computer that was endowed 16 dollars.",
+            "dec_nonsocial_accept_high": "Participant accepted the offer during the current round with the computer that was endowed 32 dollars.",
+            "dec_nonsocial_reject": "Participant rejected the offer during the current round with the computer.",
+            "dec_nonsocial_reject_low": "Participant rejected the offer during the current round with the computer that was endowed 16 dollars.",
+            "dec_nonsocial_reject_high": "Participant rejected the offer during the current round with the computer that was endowed 32 dollars.",
+            "dec_social_choice": "Participant decision during social choice phase.",
+            "dec_social_low": "Participant decision during nonsocial choice phase with the stranger that was endowed 16 dollars.",
+            "dec_social_high": "Participant decision during nonsocial choice phase with the stranger that was endowed 32 dollars.",
+            "dec_social_accept": "Participant accepted the offer while playing with the stranger.",
+            "dec_social_accept_low": "Participant accepted the offer during the current round with the stranger that was endowed 16 dollars.",
+            "dec_social_accept_high": "Participant accepted the offer during the current round with the stranger that was endowed 32 dollars.",
+            "dec_social_reject": "Participant rejected the offer during the current round with the stranger.",
+            "dec_social_reject_low": "Participant rejected the offer during the current round with the stranger that was endowed 16 dollars.",
+            "dec_social_reject_high": "Participant rejected the offer during the current round with the stranger that was endowed 32 dollars."
+        }
+    },
+    "Endowment": {
+        "LongName": "Endowment",
+        "Description": "Funds given to the proposer before making an offer to the participant.",
+        "Levels": {
+            "16": "The proposer was given 16 dollars.",
+            "32": "The proposer was given 32 dollars."
+        }
+    },
+    "Endowment_pmod": {
+        "LongName": "Endowment Parametrically Modulated",
+        "Description": "Should not be used, endowement parametrically modulated."
+    },
+    "Decision": {
+        "LongName": "Decision",
+        "Description": "The dollar amount that the participant accepted from the offer.",
+        "Levels": {
+            "0": "The participant rejected the offer.",
+            "1": "The participant accepted one dollar.",
+            "2": "The participant accepted two dollars.",
+            "3": "The participant accepted theree dollars.",
+            "4": "The participant accepted four dollars.",
+            "8": "The participant accepted eight dollars.",
+            "16": "The participant accepted sixteen dollars."
+        }
+    },
+    "Decision_pmod": {
+        "LongName": "Decision -- Parametrically modulated",
+        "Description": "The proportion of fairness of the offer that was accepted."
+    },
+    "Offer_pmod": {
+        "LongName": "Offer -- Parametrically modulated",
+        "Description": "The proportion of fairness of the offer that was given."
+    }
+}

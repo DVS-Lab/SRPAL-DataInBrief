@@ -1,0 +1,41 @@
+{
+    "trial_type": {
+        "LongName": "Trial Type",
+        "Description": "Type of trial",
+        "Levels": {
+            "decision": "Row signifying the decision phase.",
+            "win": "Row signifying the win, occurs after decision phase if participant guessed correctly.",
+            "loss": "Row signifying loss, occurs after decision phase if participant guessed incorrectly."
+        }
+    },
+    "rt": {
+        "LongName": "Response time after stimulus",
+        "Description": "Response time measured in seconds",
+        "Units": "s"
+    },
+    "resp": {
+        "LongName": "Response",
+        "Description": "Orientation of the image that the participant selected.",
+        "Levels": {
+            "left": "The participant chose the left image.",
+            "right": "The participant chose the right image.",
+            "n/a": "Occurs during outcome phase."
+        }
+    },
+    "gender": {
+        "LongName": "gender",
+        "Description": "Group of door selected by participant",
+        "Levels": {
+            "D": "The image selected was of a door in group D",
+            "S": "The image selected was of a door in group S"
+        }
+    },
+    "image_left": {
+        "LongName": "Stimulus filename",
+        "Description": "Relative path of stimulus image file."
+    },
+    "image_right": {
+        "LongName": "Stimulus filename",
+        "Description": "Relative path of stimulus image file."
+    }
+}

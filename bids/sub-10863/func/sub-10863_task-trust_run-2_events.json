@@ -1,0 +1,38 @@
+{
+    "trust_value": {
+        "LongName": "Trust Value", 
+        "Description": "The amount that the participant decided to invest in the partner.",
+        "Levels": {
+            "0": "The participant invested $0.00",
+            "2": "The participant invested $2.00",
+            "4": "The participant invested $4.00",
+            "8": "The participant invested $8.00"
+        }
+    },
+    "choice": {
+        "LongName": "Choice", 
+        "Description": "Denotes whether the participant chose to invest the higher or lower value. Choosing to invest $8 rather than $2 would result in a response of 'high'.",
+        "Levels": {
+            "high": "The participant invested the greater amount",
+            "low": "The participant invested the lesser amount"
+            }
+    },
+    "cLow": {
+        "LongName": "Choice Low", 
+        "Description": "The lowest amount the participant is able to invest in the partner for a given trial.",
+        "Levels": {
+            "0": "The participant invested $0.00",
+            "2": "The participant invested $2.00",
+            "4": "The participant invested $4.00"
+                }
+    },
+    "cHigh": {
+        "LongName": "Choice High", 
+        "Description": "The highest amount the participant is able to invest in the partner for a given trial.",
+        "Levels": {
+            "2": "The participant invested $2.00",
+            "4": "The participant invested $4.00",
+            "8": "The participant invested $8.00"
+        }
+    }
+}
