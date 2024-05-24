@@ -1,0 +1,21 @@
+{
+  "race": {
+    "Description": "Race of the participant as reported by the participant",
+    "Levels": {
+      "White": "White",
+      "Black/African American": "Black or African American",
+      "Asian": "Asian",
+      "Two or more races": "Two or more races",
+      "Prefer not to respond": "Prefer not to respond"
+    }
+  },
+  "ethnicity": {
+    "Description": "Ethnicity of the participant",
+    "Levels": {
+      "Hispanic or Latino": "Hispanic or Latino",
+      "Not Hispanic or Latino": "Not Hispanic or Latino",
+      "Prefer not to repsond": "Prefer not to respond",
+      "Ethnicity not described (Other)": "Ethnicity not described (Other)"
+    }
+  }
+}
