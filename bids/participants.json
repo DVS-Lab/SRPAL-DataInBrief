@@ -17,5 +17,17 @@
       "Prefer not to repsond": "Prefer not to respond",
       "Ethnicity not described (Other)": "Ethnicity not described (Other)"
     }
+  },
+  "participant_id": {
+    "Description": "Participant identifier"
+  },
+  "age": {
+    "Description": "Age in years at time of scan session"
+  },
+  "sex": {
+    "Description": "self-rated by participant, M for male/F for female"
+  },
+  "group": {
+    "Description": "(TODO: adjust - by default everyone is in control group)"
   }
 }
