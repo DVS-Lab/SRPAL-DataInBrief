@@ -1,115 +1,115 @@
-participant_id	age	sex	group
-sub-10317	63	F	control
-sub-10555	28	F	control
-sub-10486	42	F	control
-sub-10369	32	M	control
-sub-10529	68	M	control
-sub-10584	50	F	control
-sub-10402	36	M	control
-sub-10541	69	M	control
-sub-10418	68	F	control
-sub-10462	62	M	control
-sub-10603	69	F	control
-sub-10617	73	F	control
-sub-10572	70	F	control
-sub-10585	63	F	control
-sub-10608	29	F	control
-sub-10589	34	M	control
-sub-10596	27	F	control
-sub-10606	22	F	control
-sub-10581	48	M	control
-sub-10478	28	F	control
-sub-10559	28	M	control
-sub-10644	69	F	control
-sub-10647	24	F	control
-sub-10649	63	F	control
-sub-10663	22	F	control
-sub-10638	72	F	control
-sub-10656	21	M	control
-sub-10673	48	F	control
-sub-10641	44	F	control
-sub-10657	59	M	control
-sub-10674	33	M	control
-sub-10652	70	F	control
-sub-10677	33	F	control
-sub-10668	37	F	control
-sub-10642	32	F	control
-sub-10640	31	F	control
-sub-10690	56	F	control
-sub-10661	50	M	control
-sub-10636	27	F	control
-sub-10685	34	M	control
-sub-10691	58	F	control
-sub-10716	69	M	control
-sub-10590	56	F	control
-sub-10701	27	M	control
-sub-10720	33	F	control
-sub-10718	28	O	control
-sub-10713	71	F	control
-sub-10767	25	F	control
-sub-10748	33	F	control
-sub-10700	23	F	control
-sub-10777	38	M	control
-sub-10770	64	M	control
-sub-10741	37	F	control
-sub-10781	37	M	control
-sub-10783	51	F	control
-sub-10803	21	F	control
-sub-10723	21	M	control
-sub-10800	26	F	control
-sub-10785	61	F	control
-sub-10801	34	F	control
-sub-10804	25	F	control
-sub-10836	37	F	control
-sub-10794	39	M	control
-sub-10802	42	F	control
-sub-10810	68	M	control
-sub-10831	25	F	control
-sub-10806	27	M	control
-sub-10817	27	F	control
-sub-10843	27	M	control
-sub-10850	32	O	control
-sub-10812	62	M	control
-sub-10807	58	M	control
-sub-10854	46	F	control
-sub-10809	68	M	control
-sub-10827	23	O	control
-sub-10834	40	M	control
-sub-10858	80	M	control
-sub-10838	23	M	control
-sub-10866	72	M	control
-sub-10881	62	F	control
-sub-10875	32	M	control
-sub-10860	25	M	control
-sub-10887	35	F	control
-sub-10857	22	M	control
-sub-10862	60	M	control
-sub-10940	22	M	control
-sub-10977	41	F	control
-sub-10896	28	F	control
-sub-10898	61	F	control
-sub-10863	42	M	control
-sub-10918	24	O	control
-sub-10908	42	F	control
-sub-10930	49	F	control
-sub-10928	55	F	control
-sub-10924	32	F	control
-sub-10952	32	M	control
-sub-10926	35	F	control
-sub-10938	58	F	control
-sub-10958	34	F	control
-sub-10886	55	M	control
-sub-10897	31	F	control
-sub-10950	24	F	control
-sub-10913	67	F	control
-sub-10951	21	M	control
-sub-10954	46	F	control
-sub-10929	42	F	control
-sub-10969	26	F	control
-sub-10953	63	F	control
-sub-10983	24	F	control
-sub-11005	36	F	control
-sub-10974	80	F	control
-sub-11031	23	F	control
-sub-10956	28	F	control
-sub-10984	52	M	control
+participant_id	age	sex	race	ethnicity	group
+sub-10317	63	F	White	Not Hispanic or Latino	control
+sub-10555	28	F	White 	Not Hispanic or Latino	control
+sub-10486	42	F	White	Not Hispanic or Latino	control
+sub-10369	32	M	White	Not Hispanic or Latino	control
+sub-10529	68	M	White	Not Hispanic or Latino	control
+sub-10584	50	F	White	Not Hispanic or Latino	control
+sub-10402	36	M	Black or African American	Not Hispanic or Latino	control
+sub-10541	69	M	White	Not Hispanic or Latino	control
+sub-10418	68	F	White	Not Hispanic or Latino	control
+sub-10462	62	M	Black or African American	Not Hispanic or Latino	control
+sub-10603	69	F	Black or African American	Not Hispanic or Latino	control
+sub-10617	73	F	White	Not Hispanic or Latino	control
+sub-10572	70	F	White	Not Hispanic or Latino	control
+sub-10585	63	F	White	Not Hispanic or Latino	control
+sub-10608	29	F	Black or African American	Not Hispanic or Latino	control
+sub-10589	34	M	White	Not Hispanic or Latino	control
+sub-10596	27	F	White	Not Hispanic or Latino	control
+sub-10606	22	F	White	Not Hispanic or Latino	control
+sub-10581	48	M	Black or African American	Not Hispanic or Latino	control
+sub-10478	28	F	Asian	Not Hispanic or Latino	control
+sub-10559	28	M	Black or African American	Not Hispanic or Latino	control
+sub-10644	69	F	White	Not Hispanic or Latino	control
+sub-10647	24	F	White	Not Hispanic or Latino	control
+sub-10649	63	F	White	Hispanic or Latino	control
+sub-10663	22	F	White	Not Hispanic or Latino	control
+sub-10638	72	F	White	Not Hispanic or Latino	control
+sub-10656	21	M	Black or African American	Not Hispanic or Latino	control
+sub-10673	48	F	White	Not Hispanic or Latino	control
+sub-10641	44	F	White	Not Hispanic or Latino	control
+sub-10657	59	M	White	Not Hispanic or Latino	control
+sub-10674	33	M	Black or African American	Not Hispanic or Latino	control
+sub-10652	70	F	Asian	Not Hispanic or Latino	control
+sub-10677	33	F	Black or African American	Not Hispanic or Latino	control
+sub-10668	37	F	Black or African American	Not Hispanic or Latino	control
+sub-10642	32	F	White	Not Hispanic or Latino	control
+sub-10640	31	F	White	Not Hispanic or Latino	control
+sub-10690	56	F	Two or more races	Not Hispanic or Latino	control
+sub-10661	50	M	White	Not Hispanic or Latino	control
+sub-10636	27	F	Asian	Not Hispanic or Latino	control
+sub-10685	34	M	Black or African American	Ethnicity not described (Other)	control
+sub-10691	58	F	White	Not Hispanic or Latino	control
+sub-10716	69	M	White	Not Hispanic or Latino	control
+sub-10590	56	F	White	Not Hispanic or Latino	control
+sub-10701	27	M	White	Not Hispanic or Latino	control
+sub-10720	33	F	Asian	Not Hispanic or Latino	control
+sub-10718	28	O	Asian	Not Hispanic or Latino	control
+sub-10713	71	F	White	Not Hispanic or Latino	control
+sub-10767	25	F	White	Not Hispanic or Latino	control
+sub-10748	33	F	Asian	Not Hispanic or Latino	control
+sub-10700	23	F	Asian	Not Hispanic or Latino	control
+sub-10777	38	M	White	Not Hispanic or Latino	control
+sub-10770	64	M	Black or African American	Not Hispanic or Latino	control
+sub-10741	37	F	Asian	Not Hispanic or Latino	control
+sub-10781	37	M	White	Not Hispanic or Latino	control
+sub-10783	51	F	Black or African American	Not Hispanic or Latino	control
+sub-10803	21	F	Asian	Not Hispanic or Latino	control
+sub-10723	21	M	Two or more races	Not Hispanic or Latino	control
+sub-10800	26	F	Two or more races	Hispanic or Latino	control
+sub-10785	61	F	White	Not Hispanic or Latino	control
+sub-10801	34	F	Black or African American	Not Hispanic or Latino	control
+sub-10804	25	F	Two or more races	Hispanic or Latino	control
+sub-10836	37	F	Black or African American	Not Hispanic or Latino	control
+sub-10794	39	M	Black or African American	Not Hispanic or Latino	control
+sub-10802	42	F	White	Not Hispanic or Latino	control
+sub-10810	68	M	White	Ethnicity not described (Other)	control
+sub-10831	25	F	White	Hispanic or Latino	control
+sub-10806	27	M	Prefer not to respond	Not Hispanic or Latino	control
+sub-10817	27	F	Two or more races	Not Hispanic or Latino	control
+sub-10843	27	M	Black or African American	Not Hispanic or Latino	control
+sub-10850	32	O	Two or more races	Not Hispanic or Latino	control
+sub-10812	62	M	Black or African American	Not Hispanic or Latino	control
+sub-10807	58	M	Black or African American	Not Hispanic or Latino	control
+sub-10854	46	F	Black or African American	Not Hispanic or Latino	control
+sub-10809	68	M	White	Not Hispanic or Latino	control
+sub-10827	23	O	Black or African American	Not Hispanic or Latino	control
+sub-10834	40	M	White	Not Hispanic or Latino	control
+sub-10858	80	M	White	Not Hispanic or Latino	control
+sub-10838	23	M	Black or African American	Not Hispanic or Latino	control
+sub-10866	72	M	White	Not Hispanic or Latino	control
+sub-10881	62	F	Black or African American	Not Hispanic or Latino	control
+sub-10875	32	M	Prefer not to respond	Hispanic or Latino	control
+sub-10860	25	M	White	Not Hispanic or Latino	control
+sub-10887	35	F	Asian	Not Hispanic or Latino	control
+sub-10857	22	M	White	Not Hispanic or Latino	control
+sub-10862	60	M	White	Not Hispanic or Latino	control
+sub-10940	22	M	White	Not Hispanic or Latino	control
+sub-10977	41	F	White	Not Hispanic or Latino	control
+sub-10896	28	F	White	Not Hispanic or Latino	control
+sub-10898	61	F	White	Not Hispanic or Latino	control
+sub-10863	42	M	White	Not Hispanic or Latino	control
+sub-10918	24	O	White	Not Hispanic or Latino	control
+sub-10908	42	F	White	Not Hispanic or Latino	control
+sub-10930	49	F	White	Not Hispanic or Latino	control
+sub-10928	55	F	White	Not Hispanic or Latino	control
+sub-10924	32	F	White	Not Hispanic or Latino	control
+sub-10952	32	M	Two or more races	Hispanic or Latino	control
+sub-10926	35	F	Prefer not to respond	Prefer not to respond	control
+sub-10938	58	F	White	Not Hispanic or Latino	control
+sub-10958	34	F	Asian	Not Hispanic or Latino	control
+sub-10886	55	M	Two or more races	Hispanic or Latino	control
+sub-10897	31	F	White	Not Hispanic or Latino	control
+sub-10950	24	F	White	Not Hispanic or Latino	control
+sub-10913	67	F	White	Not Hispanic or Latino	control
+sub-10951	21	M	White	Not Hispanic or Latino	control
+sub-10954	46	F	Black or African American	Not Hispanic or Latino	control
+sub-10929	42	F	White	Not Hispanic or Latino	control
+sub-10969	26	F	White	Not Hispanic or Latino	control
+sub-10953	63	F	White	Not Hispanic or Latino	control
+sub-10983	24	F	White	Hispanic or Latino	control
+sub-11005	36	F	White	Not Hispanic or Latino	control
+sub-10974	80	F	White	Not Hispanic or Latino	control
+sub-11031	23	F	White	Not Hispanic or Latino	control
+sub-10956	28	F	White	Not Hispanic or Latino	control
+sub-10984	52	M	White	Not Hispanic or Latino	control
