@@ -26,4 +26,4 @@ datalad get .
 
 
 ## Acknowledgments
-We thank Jeffery Dennison, Ori Zaff, Rita Ludwig, Makayla Collins, Ashley Hawk, Enes Yanilmaz, and Matthew J. Drayton for assistance with data collection. We also thank the Temple University High-Performance Computing Team for providing resources and support for preprocessing and data analysis.
+We thank Jeff Dennison, Ori Zaff, Rita Ludwig, Makayla Collins, Ashley Hawk, Enes Yanilmaz, and Matthew Drayton for assistance with data collection. We also thank the Temple University High-Performance Computing Team for providing resources and support for preprocessing and data analysis.
