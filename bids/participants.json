@@ -1,6 +1,20 @@
 {
+  "participant_id": {
+    "Description": "Participant identifier"
+  },
+  "age": {
+    "Description": "Age in years at time of scan session"
+  },
+  "sex": {
+    "Description": "Self-reported sex by participant",
+    "Levels": {
+      "M": "Male",
+      "F": "Female",
+      "O": "Non-Binary/Other"
+    }
+  },
   "race": {
-    "Description": "Race of the participant as reported by the participant",
+    "Description": "Self-reported race of the participant",
     "Levels": {
       "White": "White",
       "Black/African American": "Black or African American",
@@ -18,14 +32,22 @@
       "Ethnicity not described (Other)": "Ethnicity not described (Other)"
     }
   },
-  "participant_id": {
-    "Description": "Participant identifier"
+  "weight": {
+    "Description": "Self-reported weight in pounds of the participant"
   },
-  "age": {
-    "Description": "Age in years at time of scan session"
+  "height": {
+    "Description": "Self-reported height in inches of the participant"
   },
-  "sex": {
-    "Description": "self-rated by participant, M for male/F for female"
+  "BMI": {
+    "Description": "Body mass index of participant"
+  },
+  "handedness": {
+    "Description": "Self-reported handedness of the participant",
+    "Levels": {
+      "Right handed": "Right handed",
+      "Left handed": "Left handed",
+      "Both": "Both/Ambidextrous"
+    }
   },
   "group": {
     "Description": "(TODO: adjust - by default everyone is in control group)"
