@@ -1,302 +1,178 @@
-onset	duration	trial_type	response_time	Endowment	Endowment_pmod	Decision	Decision_pmod	Offer_pmod
-4.521152	2	cue_nonsocial	n/a	16	-6	n/a	n/a	n/a
-4.521152	2	cue_nonsocial_low	n/a	16	-6	n/a	n/a	n/a
-12.171555	2	cue_nonsocial	n/a	32	10	n/a	n/a	n/a
-12.171555	2	cue_nonsocial_high	n/a	32	10	n/a	n/a	n/a
-19.005007	2	cue_nonsocial	n/a	32	10	n/a	n/a	n/a
-19.005007	2	cue_nonsocial_high	n/a	32	10	n/a	n/a	n/a
-25.838015	2	cue_nonsocial	n/a	16	-6	n/a	n/a	n/a
-25.838015	2	cue_nonsocial_low	n/a	16	-6	n/a	n/a	n/a
-33.488037	2	cue_nonsocial	n/a	16	-6	n/a	n/a	n/a
-33.488037	2	cue_nonsocial_low	n/a	16	-6	n/a	n/a	n/a
-41.137745	2	cue_nonsocial	n/a	32	10	n/a	n/a	n/a
-41.137745	2	cue_nonsocial_high	n/a	32	10	n/a	n/a	n/a
-48.855350	2	cue_social	n/a	16	-6	n/a	n/a	n/a
-48.855350	2	cue_social_low	n/a	16	-6	n/a	n/a	n/a
-55.683186	2	cue_social	n/a	16	-6	n/a	n/a	n/a
-55.683186	2	cue_social_low	n/a	16	-6	n/a	n/a	n/a
-62.520252	2	cue_social	n/a	16	-6	n/a	n/a	n/a
-62.520252	2	cue_social_low	n/a	16	-6	n/a	n/a	n/a
-69.383920	2	cue_social	n/a	32	10	n/a	n/a	n/a
-69.383920	2	cue_social_high	n/a	32	10	n/a	n/a	n/a
-76.138370	2	cue_nonsocial	n/a	16	-6	n/a	n/a	n/a
-76.138370	2	cue_nonsocial_low	n/a	16	-6	n/a	n/a	n/a
-83.787834	2	cue_nonsocial	n/a	32	10	n/a	n/a	n/a
-83.787834	2	cue_nonsocial_high	n/a	32	10	n/a	n/a	n/a
-91.492380	2	cue_social	n/a	32	10	n/a	n/a	n/a
-91.492380	2	cue_social_high	n/a	32	10	n/a	n/a	n/a
-98.337135	2	cue_social	n/a	16	-6	n/a	n/a	n/a
-98.337135	2	cue_social_low	n/a	16	-6	n/a	n/a	n/a
-109.212390	2	cue_social	n/a	32	10	n/a	n/a	n/a
-109.212390	2	cue_social_high	n/a	32	10	n/a	n/a	n/a
-116.839066	2	cue_social	n/a	32	10	n/a	n/a	n/a
-116.839066	2	cue_social_high	n/a	32	10	n/a	n/a	n/a
-123.676830	2	cue_social	n/a	16	-6	n/a	n/a	n/a
-123.676830	2	cue_social_low	n/a	16	-6	n/a	n/a	n/a
-132.992600	2	cue_social	n/a	16	-6	n/a	n/a	n/a
-132.992600	2	cue_social_low	n/a	16	-6	n/a	n/a	n/a
-139.796800	2	cue_social	n/a	16	-6	n/a	n/a	n/a
-139.796800	2	cue_social_low	n/a	16	-6	n/a	n/a	n/a
-147.424100	2	cue_social	n/a	16	-6	n/a	n/a	n/a
-147.424100	2	cue_social_low	n/a	16	-6	n/a	n/a	n/a
-156.620990	2	cue_nonsocial	n/a	16	-6	n/a	n/a	n/a
-156.620990	2	cue_nonsocial_low	n/a	16	-6	n/a	n/a	n/a
-164.270840	2	cue_nonsocial	n/a	16	-6	n/a	n/a	n/a
-164.270840	2	cue_nonsocial_low	n/a	16	-6	n/a	n/a	n/a
-171.187930	2	cue_social	n/a	16	-6	n/a	n/a	n/a
-171.187930	2	cue_social_low	n/a	16	-6	n/a	n/a	n/a
-178.820770	2	cue_social	n/a	16	-6	n/a	n/a	n/a
-178.820770	2	cue_social_low	n/a	16	-6	n/a	n/a	n/a
-185.702090	2	cue_social	n/a	32	10	n/a	n/a	n/a
-185.702090	2	cue_social_high	n/a	32	10	n/a	n/a	n/a
-192.437360	2	cue_nonsocial	n/a	16	-6	n/a	n/a	n/a
-192.437360	2	cue_nonsocial_low	n/a	16	-6	n/a	n/a	n/a
-199.288280	2	cue_nonsocial	n/a	32	10	n/a	n/a	n/a
-199.288280	2	cue_nonsocial_high	n/a	32	10	n/a	n/a	n/a
-206.125930	2	cue_nonsocial	n/a	16	-6	n/a	n/a	n/a
-206.125930	2	cue_nonsocial_low	n/a	16	-6	n/a	n/a	n/a
-212.970980	2	cue_nonsocial	n/a	16	-6	n/a	n/a	n/a
-212.970980	2	cue_nonsocial_low	n/a	16	-6	n/a	n/a	n/a
-220.626860	2	cue_nonsocial	n/a	16	-6	n/a	n/a	n/a
-220.626860	2	cue_nonsocial_low	n/a	16	-6	n/a	n/a	n/a
-227.507750	2	cue_social	n/a	16	-6	n/a	n/a	n/a
-227.507750	2	cue_social_low	n/a	16	-6	n/a	n/a	n/a
-236.719900	2	cue_social	n/a	32	10	n/a	n/a	n/a
-236.719900	2	cue_social_high	n/a	32	10	n/a	n/a	n/a
-245.987600	2	cue_nonsocial	n/a	16	-6	n/a	n/a	n/a
-245.987600	2	cue_nonsocial_low	n/a	16	-6	n/a	n/a	n/a
-252.837950	2	cue_nonsocial	n/a	32	10	n/a	n/a	n/a
-252.837950	2	cue_nonsocial_high	n/a	32	10	n/a	n/a	n/a
-262.148130	2	cue_social	n/a	16	-6	n/a	n/a	n/a
-262.148130	2	cue_social_low	n/a	16	-6	n/a	n/a	n/a
-268.920400	2	cue_nonsocial	n/a	32	10	n/a	n/a	n/a
-268.920400	2	cue_nonsocial_high	n/a	32	10	n/a	n/a	n/a
-276.570500	2	cue_nonsocial	n/a	16	-6	n/a	n/a	n/a
-276.570500	2	cue_nonsocial_low	n/a	16	-6	n/a	n/a	n/a
-283.404020	2	cue_nonsocial	n/a	32	10	n/a	n/a	n/a
-283.404020	2	cue_nonsocial_high	n/a	32	10	n/a	n/a	n/a
-294.311740	2	cue_social	n/a	32	10	n/a	n/a	n/a
-294.311740	2	cue_social_high	n/a	32	10	n/a	n/a	n/a
-303.578500	2	cue_social	n/a	32	10	n/a	n/a	n/a
-303.578500	2	cue_social_high	n/a	32	10	n/a	n/a	n/a
-312.884460	2	cue_social	n/a	16	-6	n/a	n/a	n/a
-312.884460	2	cue_social_low	n/a	16	-6	n/a	n/a	n/a
-319.665370	2	cue_social	n/a	16	-6	n/a	n/a	n/a
-319.665370	2	cue_social_low	n/a	16	-6	n/a	n/a	n/a
-326.470100	2	cue_nonsocial	n/a	16	-6	n/a	n/a	n/a
-326.470100	2	cue_nonsocial_low	n/a	16	-6	n/a	n/a	n/a
-333.370150	2	cue_social	n/a	16	-6	n/a	n/a	n/a
-333.370150	2	cue_social_low	n/a	16	-6	n/a	n/a	n/a
-345.823200	2	cue_nonsocial	n/a	32	10	n/a	n/a	n/a
-345.823200	2	cue_nonsocial_high	n/a	32	10	n/a	n/a	n/a
-352.670320	2	cue_nonsocial	n/a	16	-6	n/a	n/a	n/a
-352.670320	2	cue_nonsocial_low	n/a	16	-6	n/a	n/a	n/a
-363.615540	2	cue_social	n/a	32	10	n/a	n/a	n/a
-363.615540	2	cue_social_high	n/a	32	10	n/a	n/a	n/a
-370.373870	2	cue_nonsocial	n/a	16	-6	n/a	n/a	n/a
-370.373870	2	cue_nonsocial_low	n/a	16	-6	n/a	n/a	n/a
-6.527836	1.783174	dec_nonsocial_choice	1.783174	16.000000	n/a	0	0	-2.405303e-01
-6.527836	1.783174	dec_choice	1.783174	16.000000	n/a	0	0	-2.375000e-01
-6.527836	1.783174	dec_nonsocial_reject	1.783174	16.000000	n/a	0	0	3.125000e-01
-6.527836	1.783174	dec_reject	1.783174	16.000000	n/a	0	0	3.035714e-01
-6.527836	1.783174	dec_nonsocial_reject_low	1.783174	16.000000	n/a	8	3.333333e-01	-1.666667e-01
-14.177999	1.733116	dec_nonsocial_choice	1.733116	32.000000	n/a	0	0	-2.405303e-01
-14.177999	1.733116	dec_choice	1.733116	32.000000	n/a	0	0	-2.375000e-01
-14.177999	1.733116	dec_nonsocial_reject	1.733116	32.000000	n/a	0	0	3.125000e-01
-14.177999	1.733116	dec_reject	1.733116	32.000000	n/a	0	0	3.035714e-01
-14.177999	1.733116	dec_nonsocial_low	1.733116	32.000000	n/a	0	-2.375000e-01	-2.375000e-01
-14.177999	1.733116	dec_nonsocial_reject_low	1.733116	32.000000	n/a	16	3.035714e-01	-1.964286e-01
-21.011036	1.966080	dec_nonsocial_choice	1.966080	32.000000	n/a	8	9.469697e-03	9.469697e-03
-21.011036	1.966080	dec_choice	1.966080	32.000000	n/a	8	1.250000e-02	1.250000e-02
-21.011036	1.966080	dec_nonsocial_accept	1.966080	32.000000	n/a	8	-1.358696e-02	-1.358696e-02
-21.011036	1.966080	dec_accept	1.966080	32.000000	n/a	8	-2.343750e-02	-2.343750e-02
-21.011036	1.966080	dec_nonsocial_accept_high	1.966080	32.000000	n/a	8	-8.333333e-03	-8.333333e-03
-27.844082	1.516293	dec_nonsocial_choice	1.516293	16.000000	n/a	2	-1.155303e-01	-1.155303e-01
-27.844082	1.516293	dec_choice	1.516293	16.000000	n/a	2	-1.125000e-01	-1.125000e-01
-27.844082	1.516293	dec_nonsocial_accept	1.516293	16.000000	n/a	2	-1.385870e-01	-1.385870e-01
-27.844082	1.516293	dec_accept	1.516293	16.000000	n/a	2	-1.484375e-01	-1.484375e-01
-27.844082	1.516293	dec_nonsocial_accept_low	1.516293	16.000000	n/a	2	-1.333333e-01	-1.333333e-01
-35.493984	0.883524	dec_nonsocial_choice	0.883524	16.000000	n/a	0	0	-2.405303e-01
-35.493984	0.883524	dec_choice	0.883524	16.000000	n/a	0	0	-2.375000e-01
-35.493984	0.883524	dec_nonsocial_reject	0.883524	16.000000	n/a	0	0	-1.250000e-01
-35.493984	0.883524	dec_reject	0.883524	16.000000	n/a	0	0	-1.339286e-01
-35.493984	0.883524	dec_nonsocial_reject_low	0.883524	16.000000	n/a	1	-1.041667e-01	-1.666667e-01
-43.143898	1.383751	dec_nonsocial_choice	1.383751	32.000000	n/a	0	0	-2.405303e-01
-43.143898	1.383751	dec_choice	1.383751	32.000000	n/a	0	0	-2.375000e-01
-43.143898	1.383751	dec_nonsocial_reject	1.383751	32.000000	n/a	0	0	-9.375000e-02
-43.143898	1.383751	dec_reject	1.383751	32.000000	n/a	0	0	-1.026786e-01
-43.143898	1.383751	dec_nonsocial_low	1.383751	32.000000	n/a	0	-2.375000e-01	-2.375000e-01
-43.143898	1.383751	dec_nonsocial_reject_low	1.383751	32.000000	n/a	3	-1.026786e-01	-1.964286e-01
-50.793922	1.799562	dec_social_choice	1.799562	16.000000	n/a	2	-1.155303e-01	-1.155303e-01
-50.793922	1.799562	dec_choice	1.799562	16.000000	n/a	2	-1.180556e-01	-1.180556e-01
-50.793922	1.799562	dec_social_accept	1.799562	16.000000	n/a	2	-1.385870e-01	-1.385870e-01
-50.793922	1.799562	dec_accept	1.799562	16.000000	n/a	2	-1.333333e-01	-1.333333e-01
-50.793922	1.799562	dec_social_low	1.799562	16.000000	n/a	2	-1.180556e-01	-1.180556e-01
-50.793922	1.799562	dec_social_accept_low	1.799562	16.000000	n/a	2	-1.180556e-01	-1.180556e-01
-57.627167	2.400266	dec_social_choice	2.400266	16.000000	n/a	8	2.594697e-01	2.594697e-01
-57.627167	2.400266	dec_choice	2.400266	16.000000	n/a	8	2.569444e-01	2.569444e-01
-57.627167	2.400266	dec_social_accept	2.400266	16.000000	n/a	8	2.364130e-01	2.364130e-01
-57.627167	2.400266	dec_accept	2.400266	16.000000	n/a	8	2.416667e-01	2.416667e-01
-57.627167	2.400266	dec_social_high	2.400266	16.000000	n/a	8	2.569444e-01	2.569444e-01
-57.627167	2.400266	dec_social_accept_high	2.400266	16.000000	n/a	8	2.569444e-01	2.569444e-01
-64.460860	3.766946	missed_trial	3.766946	16.000000	n/a	n/a	n/a	n/a
-71.309944	1.950678	dec_social_choice	1.950678	32.000000	n/a	2	-1.780303e-01	-1.780303e-01
-71.309944	1.950678	dec_choice	1.950678	32.000000	n/a	2	-1.805556e-01	-1.805556e-01
-71.309944	1.950678	dec_social_accept	1.950678	32.000000	n/a	2	-2.010870e-01	-2.010870e-01
-71.309944	1.950678	dec_accept	1.950678	32.000000	n/a	2	-1.958333e-01	-1.958333e-01
-71.309944	1.950678	dec_social_low	1.950678	32.000000	n/a	2	-1.805556e-01	-1.805556e-01
-71.309944	1.950678	dec_social_accept_low	1.950678	32.000000	n/a	2	-1.805556e-01	-1.805556e-01
-78.143990	3.766946	missed_trial	3.766946	16.000000	n/a	n/a	n/a	n/a
-85.794910	1.899299	dec_nonsocial_choice	1.899299	32.000000	n/a	0	0	-2.405303e-01
-85.794910	1.899299	dec_choice	1.899299	32.000000	n/a	0	0	-2.375000e-01
-85.794910	1.899299	dec_nonsocial_reject	1.899299	32.000000	n/a	0	0	-1.250000e-01
-85.794910	1.899299	dec_reject	1.899299	32.000000	n/a	0	0	-1.339286e-01
-85.794910	1.899299	dec_nonsocial_low	1.899299	32.000000	n/a	0	-2.375000e-01	-2.375000e-01
-85.794910	1.899299	dec_nonsocial_reject_low	1.899299	32.000000	n/a	2	-1.339286e-01	-1.964286e-01
-93.443924	1.016087	dec_social_choice	1.016087	32.000000	n/a	16	2.594697e-01	2.594697e-01
-93.443924	1.016087	dec_choice	1.016087	32.000000	n/a	16	2.569444e-01	2.569444e-01
-93.443924	1.016087	dec_social_accept	1.016087	32.000000	n/a	16	2.364130e-01	2.364130e-01
-93.443924	1.016087	dec_accept	1.016087	32.000000	n/a	16	2.416667e-01	2.416667e-01
-93.443924	1.016087	dec_social_high	1.016087	32.000000	n/a	16	2.569444e-01	2.569444e-01
-93.443924	1.016087	dec_social_accept_high	1.016087	32.000000	n/a	16	2.569444e-01	2.569444e-01
-100.277000	1.183178	dec_social_choice	1.183178	16.000000	n/a	2	-1.155303e-01	-1.155303e-01
-100.277000	1.183178	dec_choice	1.183178	16.000000	n/a	2	-1.180556e-01	-1.180556e-01
-100.277000	1.183178	dec_social_accept	1.183178	16.000000	n/a	2	-1.385870e-01	-1.385870e-01
-100.277000	1.183178	dec_accept	1.183178	16.000000	n/a	2	-1.333333e-01	-1.333333e-01
-100.277000	1.183178	dec_social_low	1.183178	16.000000	n/a	2	-1.180556e-01	-1.180556e-01
-100.277000	1.183178	dec_social_accept_low	1.183178	16.000000	n/a	2	-1.180556e-01	-1.180556e-01
-111.143330	1.600574	dec_social_choice	1.600574	32.000000	n/a	3	-1.467803e-01	-1.467803e-01
-111.143330	1.600574	dec_choice	1.600574	32.000000	n/a	3	-1.493056e-01	-1.493056e-01
-111.143330	1.600574	dec_social_accept	1.600574	32.000000	n/a	3	-1.698370e-01	-1.698370e-01
-111.143330	1.600574	dec_accept	1.600574	32.000000	n/a	3	-1.645833e-01	-1.645833e-01
-111.143330	1.600574	dec_social_low	1.600574	32.000000	n/a	3	-1.493056e-01	-1.493056e-01
-111.143330	1.600574	dec_social_accept_low	1.600574	32.000000	n/a	3	-1.493056e-01	-1.493056e-01
-118.793860	1.733640	dec_social_choice	1.733640	32.000000	n/a	16	2.594697e-01	2.594697e-01
-118.793860	1.733640	dec_choice	1.733640	32.000000	n/a	16	2.569444e-01	2.569444e-01
-118.793860	1.733640	dec_social_accept	1.733640	32.000000	n/a	16	2.364130e-01	2.364130e-01
-118.793860	1.733640	dec_accept	1.733640	32.000000	n/a	16	2.416667e-01	2.416667e-01
-118.793860	1.733640	dec_social_high	1.733640	32.000000	n/a	16	2.569444e-01	2.569444e-01
-118.793860	1.733640	dec_social_accept_high	1.733640	32.000000	n/a	16	2.569444e-01	2.569444e-01
-125.627300	3.766946	missed_trial	3.766946	16.000000	n/a	n/a	n/a	n/a
-134.893880	0.116905	dec_social_choice	0.116905	16.000000	n/a	0	0	-2.405303e-01
-134.893880	0.116905	dec_choice	0.116905	16.000000	n/a	0	0	-2.430556e-01
-134.893880	0.116905	dec_social_reject	0.116905	16.000000	n/a	0	0	-6.250000e-02
-134.893880	0.116905	dec_reject	0.116905	16.000000	n/a	0	0	-4.166667e-02
-134.893880	0.116905	dec_social_low	0.116905	16.000000	n/a	0	-2.430556e-01	-2.430556e-01
-134.893880	0.116905	dec_social_reject_low	0.116905	16.000000	n/a	2	-1.180556e-01	-2.430556e-01
-141.725880	1.318156	dec_social_choice	1.318156	16.000000	n/a	4	9.469697e-03	9.469697e-03
-141.725880	1.318156	dec_choice	1.318156	16.000000	n/a	4	6.944444e-03	6.944444e-03
-141.725880	1.318156	dec_social_accept	1.318156	16.000000	n/a	4	-1.358696e-02	-1.358696e-02
-141.725880	1.318156	dec_accept	1.318156	16.000000	n/a	4	-8.333333e-03	-8.333333e-03
-141.725880	1.318156	dec_social_high	1.318156	16.000000	n/a	4	6.944444e-03	6.944444e-03
-141.725880	1.318156	dec_social_accept_high	1.318156	16.000000	n/a	4	6.944444e-03	6.944444e-03
-149.360060	1.566362	dec_social_choice	1.566362	16.000000	n/a	8	2.594697e-01	2.594697e-01
-149.360060	1.566362	dec_choice	1.566362	16.000000	n/a	8	2.569444e-01	2.569444e-01
-149.360060	1.566362	dec_social_accept	1.566362	16.000000	n/a	8	2.364130e-01	2.364130e-01
-149.360060	1.566362	dec_accept	1.566362	16.000000	n/a	8	2.416667e-01	2.416667e-01
-149.360060	1.566362	dec_social_accept_high	1.566362	16.000000	n/a	8	2.569444e-01	2.569444e-01
-158.626830	1.316297	dec_nonsocial_choice	1.316297	16.000000	n/a	1	-1.780303e-01	-1.780303e-01
-158.626830	1.316297	dec_choice	1.316297	16.000000	n/a	1	-1.750000e-01	-1.750000e-01
-158.626830	1.316297	dec_nonsocial_accept	1.316297	16.000000	n/a	1	-2.010870e-01	-2.010870e-01
-158.626830	1.316297	dec_accept	1.316297	16.000000	n/a	1	-2.109375e-01	-2.109375e-01
-158.626830	1.316297	dec_nonsocial_low	1.316297	16.000000	n/a	1	-1.750000e-01	-1.750000e-01
-158.626830	1.316297	dec_nonsocial_accept_low	1.316297	16.000000	n/a	1	-2.109375e-01	-2.109375e-01
-166.277710	3.766946	missed_trial	3.766946	16.000000	n/a	n/a	n/a	n/a
-173.128800	1.181380	dec_social_choice	1.181380	16.000000	n/a	4	9.469697e-03	9.469697e-03
-173.128800	1.181380	dec_choice	1.181380	16.000000	n/a	4	6.944444e-03	6.944444e-03
-173.128800	1.181380	dec_social_accept	1.181380	16.000000	n/a	4	-1.358696e-02	-1.358696e-02
-173.128800	1.181380	dec_accept	1.181380	16.000000	n/a	4	-8.333333e-03	-8.333333e-03
-173.128800	1.181380	dec_social_high	1.181380	16.000000	n/a	4	6.944444e-03	6.944444e-03
-173.128800	1.181380	dec_social_accept_high	1.181380	16.000000	n/a	4	6.944444e-03	6.944444e-03
-180.776800	2.366984	dec_social_choice	2.366984	16.000000	n/a	0	0	-2.405303e-01
-180.776800	2.366984	dec_choice	2.366984	16.000000	n/a	0	0	-2.430556e-01
-180.776800	2.366984	dec_social_reject	2.366984	16.000000	n/a	0	0	-6.250000e-02
-180.776800	2.366984	dec_reject	2.366984	16.000000	n/a	0	0	-4.166667e-02
-180.776800	2.366984	dec_social_low	2.366984	16.000000	n/a	0	-2.430556e-01	-2.430556e-01
-180.776800	2.366984	dec_social_reject_low	2.366984	16.000000	n/a	2	-1.180556e-01	-2.430556e-01
-187.610800	1.282975	dec_social_choice	1.282975	32.000000	n/a	16	2.594697e-01	2.594697e-01
-187.610800	1.282975	dec_choice	1.282975	32.000000	n/a	16	2.569444e-01	2.569444e-01
-187.610800	1.282975	dec_social_accept	1.282975	32.000000	n/a	16	2.364130e-01	2.364130e-01
-187.610800	1.282975	dec_accept	1.282975	32.000000	n/a	16	2.416667e-01	2.416667e-01
-187.610800	1.282975	dec_social_high	1.282975	32.000000	n/a	16	2.569444e-01	2.569444e-01
-187.610800	1.282975	dec_social_accept_high	1.282975	32.000000	n/a	16	2.569444e-01	2.569444e-01
-194.443500	3.766946	missed_trial	3.766946	16.000000	n/a	n/a	n/a	n/a
-201.293780	1.249940	dec_nonsocial_choice	1.249940	32.000000	n/a	0	0	-2.405303e-01
-201.293780	1.249940	dec_choice	1.249940	32.000000	n/a	0	0	-2.375000e-01
-201.293780	1.249940	dec_nonsocial_reject	1.249940	32.000000	n/a	0	0	-1.250000e-01
-201.293780	1.249940	dec_reject	1.249940	32.000000	n/a	0	0	-1.339286e-01
-201.293780	1.249940	dec_nonsocial_low	1.249940	32.000000	n/a	0	-2.375000e-01	-2.375000e-01
-201.293780	1.249940	dec_nonsocial_reject_low	1.249940	32.000000	n/a	2	-1.339286e-01	-1.964286e-01
-208.126830	3.766946	missed_trial	3.766946	16.000000	n/a	n/a	n/a	n/a
-214.976760	1.399976	dec_nonsocial_choice	1.399976	16.000000	n/a	4	9.469697e-03	9.469697e-03
-214.976760	1.399976	dec_choice	1.399976	16.000000	n/a	4	1.250000e-02	1.250000e-02
-214.976760	1.399976	dec_nonsocial_accept	1.399976	16.000000	n/a	4	-1.358696e-02	-1.358696e-02
-214.976760	1.399976	dec_accept	1.399976	16.000000	n/a	4	-2.343750e-02	-2.343750e-02
-214.976760	1.399976	dec_nonsocial_high	1.399976	16.000000	n/a	4	1.250000e-02	1.250000e-02
-214.976760	1.399976	dec_nonsocial_accept_high	1.399976	16.000000	n/a	4	-2.343750e-02	-2.343750e-02
-222.626720	3.766946	missed_trial	3.766946	16.000000	n/a	n/a	n/a	n/a
-229.459720	3.766946	missed_trial	3.766946	16.000000	n/a	n/a	n/a	n/a
-238.710660	3.766946	missed_trial	3.766946	32.000000	n/a	n/a	n/a	n/a
-247.993730	3.766946	missed_trial	3.766946	16.000000	n/a	n/a	n/a	n/a
-254.842940	0.250432	dec_nonsocial_choice	0.250432	32.000000	n/a	0	0	-2.405303e-01
-254.842940	0.250432	dec_choice	0.250432	32.000000	n/a	0	0	-2.375000e-01
-254.842940	0.250432	dec_nonsocial_reject	0.250432	32.000000	n/a	0	0	-9.375000e-02
-254.842940	0.250432	dec_reject	0.250432	32.000000	n/a	0	0	-1.026786e-01
-254.842940	0.250432	dec_nonsocial_low	0.250432	32.000000	n/a	0	-2.375000e-01	-2.375000e-01
-254.842940	0.250432	dec_nonsocial_reject_low	0.250432	32.000000	n/a	3	-1.026786e-01	-1.964286e-01
-264.093700	0.749843	dec_social_choice	0.749843	16.000000	n/a	1	-1.780303e-01	-1.780303e-01
-264.093700	0.749843	dec_choice	0.749843	16.000000	n/a	1	-1.805556e-01	-1.805556e-01
-264.093700	0.749843	dec_social_accept	0.749843	16.000000	n/a	1	-2.010870e-01	-2.010870e-01
-264.093700	0.749843	dec_accept	0.749843	16.000000	n/a	1	-1.958333e-01	-1.958333e-01
-264.093700	0.749843	dec_social_accept_low	0.749843	16.000000	n/a	1	-1.805556e-01	-1.805556e-01
-270.926670	0.033416	dec_nonsocial_choice	0.033416	32.000000	n/a	8	9.469697e-03	9.469697e-03
-270.926670	0.033416	dec_choice	0.033416	32.000000	n/a	8	1.250000e-02	1.250000e-02
-270.926670	0.033416	dec_nonsocial_accept	0.033416	32.000000	n/a	8	-1.358696e-02	-1.358696e-02
-270.926670	0.033416	dec_accept	0.033416	32.000000	n/a	8	-2.343750e-02	-2.343750e-02
-270.926670	0.033416	dec_nonsocial_accept_high	0.033416	32.000000	n/a	8	-8.333333e-03	-8.333333e-03
-278.577300	0.315707	dec_nonsocial_choice	0.315707	16.000000	n/a	4	9.469697e-03	9.469697e-03
-278.577300	0.315707	dec_choice	0.315707	16.000000	n/a	4	1.250000e-02	1.250000e-02
-278.577300	0.315707	dec_nonsocial_accept	0.315707	16.000000	n/a	4	-1.358696e-02	-1.358696e-02
-278.577300	0.315707	dec_accept	0.315707	16.000000	n/a	4	-2.343750e-02	-2.343750e-02
-278.577300	0.315707	dec_nonsocial_high	0.315707	16.000000	n/a	4	1.250000e-02	1.250000e-02
-278.577300	0.315707	dec_nonsocial_accept_high	0.315707	16.000000	n/a	4	-2.343750e-02	-2.343750e-02
-285.410640	1.283122	dec_nonsocial_choice	1.283122	32.000000	n/a	16	2.594697e-01	2.594697e-01
-285.410640	1.283122	dec_choice	1.283122	32.000000	n/a	16	2.625000e-01	2.625000e-01
-285.410640	1.283122	dec_nonsocial_accept	1.283122	32.000000	n/a	16	2.364130e-01	2.364130e-01
-285.410640	1.283122	dec_accept	1.283122	32.000000	n/a	16	2.265625e-01	2.265625e-01
-285.410640	1.283122	dec_nonsocial_high	1.283122	32.000000	n/a	16	2.625000e-01	2.625000e-01
-285.410640	1.283122	dec_nonsocial_accept_high	1.283122	32.000000	n/a	16	2.265625e-01	2.265625e-01
-296.276760	0.265973	dec_social_choice	0.265973	32.000000	n/a	3	-1.467803e-01	-1.467803e-01
-296.276760	0.265973	dec_choice	0.265973	32.000000	n/a	3	-1.493056e-01	-1.493056e-01
-296.276760	0.265973	dec_social_accept	0.265973	32.000000	n/a	3	-1.698370e-01	-1.698370e-01
-296.276760	0.265973	dec_accept	0.265973	32.000000	n/a	3	-1.645833e-01	-1.645833e-01
-296.276760	0.265973	dec_social_low	0.265973	32.000000	n/a	3	-1.493056e-01	-1.493056e-01
-296.276760	0.265973	dec_social_accept_low	0.265973	32.000000	n/a	3	-1.493056e-01	-1.493056e-01
-305.542600	0.984161	dec_social_choice	0.984161	32.000000	n/a	8	9.469697e-03	9.469697e-03
-305.542600	0.984161	dec_choice	0.984161	32.000000	n/a	8	6.944444e-03	6.944444e-03
-305.542600	0.984161	dec_social_accept	0.984161	32.000000	n/a	8	-1.358696e-02	-1.358696e-02
-305.542600	0.984161	dec_accept	0.984161	32.000000	n/a	8	-8.333333e-03	-8.333333e-03
-305.542600	0.984161	dec_social_high	0.984161	32.000000	n/a	8	6.944444e-03	6.944444e-03
-305.542600	0.984161	dec_social_accept_high	0.984161	32.000000	n/a	8	6.944444e-03	6.944444e-03
-314.794620	3.766946	missed_trial	3.766946	16.000000	n/a	n/a	n/a	n/a
-321.642600	1.267112	dec_social_choice	1.267112	16.000000	n/a	1	-1.780303e-01	-1.780303e-01
-321.642600	1.267112	dec_choice	1.267112	16.000000	n/a	1	-1.805556e-01	-1.805556e-01
-321.642600	1.267112	dec_social_accept	1.267112	16.000000	n/a	1	-2.010870e-01	-2.010870e-01
-321.642600	1.267112	dec_accept	1.267112	16.000000	n/a	1	-1.958333e-01	-1.958333e-01
-321.642600	1.267112	dec_social_low	1.267112	16.000000	n/a	1	-1.805556e-01	-1.805556e-01
-321.642600	1.267112	dec_social_accept_low	1.267112	16.000000	n/a	1	-1.805556e-01	-1.805556e-01
-328.476440	3.766946	missed_trial	3.766946	16.000000	n/a	n/a	n/a	n/a
-335.326570	3.766946	missed_trial	3.766946	16.000000	n/a	n/a	n/a	n/a
-347.827580	3.766946	missed_trial	3.766946	32.000000	n/a	n/a	n/a	n/a
-354.676540	3.766946	missed_trial	3.766946	16.000000	n/a	n/a	n/a	n/a
-365.560580	1.365405	dec_social_choice	1.365405	32.000000	n/a	0	0	-2.405303e-01
-365.560580	1.365405	dec_choice	1.365405	32.000000	n/a	0	0	-2.430556e-01
-365.560580	1.365405	dec_social_reject	1.365405	32.000000	n/a	0	0	6.250000e-02
-365.560580	1.365405	dec_reject	1.365405	32.000000	n/a	0	0	8.333333e-02
-365.560580	1.365405	dec_social_reject_low	1.365405	32.000000	n/a	8	6.944444e-03	-2.430556e-01
-372.393520	1.165502	dec_nonsocial_choice	1.165502	16.000000	n/a	8	2.594697e-01	2.594697e-01
-372.393520	1.165502	dec_choice	1.165502	16.000000	n/a	8	2.625000e-01	2.625000e-01
-372.393520	1.165502	dec_nonsocial_accept	1.165502	16.000000	n/a	8	2.364130e-01	2.364130e-01
-372.393520	1.165502	dec_accept	1.165502	16.000000	n/a	8	2.265625e-01	2.265625e-01
-372.393520	1.165502	dec_nonsocial_high	1.165502	16.000000	n/a	8	2.625000e-01	2.625000e-01
-372.393520	1.165502	dec_nonsocial_accept_high	1.165502	16.000000	n/a	8	2.265625e-01	2.265625e-01
+onset	duration	trial_type	response_time	Endowment	Decision	Offer
+4.521152	2	cue_nonsocial	n/a	16	n/a	n/a
+4.521152	2	cue_nonsocial_low	n/a	16	n/a	n/a
+6.527836	1.783174	dec_nonsocial_low	1.783174	16	n/a	8
+6.527836	1.783174	dec_nonsocial_low_reject	1.783174	16	reject	8
+12.171555	2	cue_nonsocial	n/a	32	n/a	n/a
+12.171555	2	cue_nonsocial_high	n/a	32	n/a	n/a
+14.177999	1.733116	dec_nonsocial_high	1.733116	32	n/a	16
+14.177999	1.733116	dec_nonsocial_high_reject	1.733116	32	reject	16
+19.005007	2	cue_nonsocial	n/a	32	n/a	n/a
+19.005007	2	cue_nonsocial_high	n/a	32	n/a	n/a
+21.011036	1.966080	dec_nonsocial_high	1.966080	32	n/a	8
+21.011036	1.966080	dec_nonsocial_high_accept	1.966080	32	accept	8
+25.838015	2	cue_nonsocial	n/a	16	n/a	n/a
+25.838015	2	cue_nonsocial_low	n/a	16	n/a	n/a
+27.844082	1.516293	dec_nonsocial_low	1.516293	16	n/a	2
+27.844082	1.516293	dec_nonsocial_low_accept	1.516293	16	accept	2
+33.488037	2	cue_nonsocial	n/a	16	n/a	n/a
+33.488037	2	cue_nonsocial_low	n/a	16	n/a	n/a
+35.493984	0.883524	dec_nonsocial_low	0.883524	16	n/a	1
+35.493984	0.883524	dec_nonsocial_low_reject	0.883524	16	reject	1
+41.137745	2	cue_nonsocial	n/a	32	n/a	n/a
+41.137745	2	cue_nonsocial_high	n/a	32	n/a	n/a
+43.143898	1.383751	dec_nonsocial_high	1.383751	32	n/a	3
+43.143898	1.383751	dec_nonsocial_high_reject	1.383751	32	reject	3
+48.855350	2	cue_social	n/a	16	n/a	n/a
+48.855350	2	cue_social_low	n/a	16	n/a	n/a
+50.793922	1.799562	dec_social_low	1.799562	16	n/a	2
+50.793922	1.799562	dec_social_low_accept	1.799562	16	accept	2
+55.683186	2	cue_social	n/a	16	n/a	n/a
+55.683186	2	cue_social_low	n/a	16	n/a	n/a
+57.627167	2.400266	dec_social_low	2.400266	16	n/a	8
+57.627167	2.400266	dec_social_low_accept	2.400266	16	accept	8
+62.520252	2	cue_social	n/a	16	n/a	n/a
+62.520252	2	cue_social_low	n/a	16	n/a	n/a
+64.460860	3.766946	missed_trial	n/a	16.000000	n/a	n/a
+69.383920	2	cue_social	n/a	32	n/a	n/a
+69.383920	2	cue_social_high	n/a	32	n/a	n/a
+71.309944	1.950678	dec_social_high	1.950678	32	n/a	2
+71.309944	1.950678	dec_social_high_accept	1.950678	32	accept	2
+76.138370	2	cue_nonsocial	n/a	16	n/a	n/a
+76.138370	2	cue_nonsocial_low	n/a	16	n/a	n/a
+78.143990	3.766946	missed_trial	n/a	16.000000	n/a	n/a
+83.787834	2	cue_nonsocial	n/a	32	n/a	n/a
+83.787834	2	cue_nonsocial_high	n/a	32	n/a	n/a
+85.794910	1.899299	dec_nonsocial_high	1.899299	32	n/a	2
+85.794910	1.899299	dec_nonsocial_high_reject	1.899299	32	reject	2
+91.492380	2	cue_social	n/a	32	n/a	n/a
+91.492380	2	cue_social_high	n/a	32	n/a	n/a
+93.443924	1.016087	dec_social_high	1.016087	32	n/a	16
+93.443924	1.016087	dec_social_high_accept	1.016087	32	accept	16
+98.337135	2	cue_social	n/a	16	n/a	n/a
+98.337135	2	cue_social_low	n/a	16	n/a	n/a
+100.277000	1.183178	dec_social_low	1.183178	16	n/a	2
+100.277000	1.183178	dec_social_low_accept	1.183178	16	accept	2
+109.212390	2	cue_social	n/a	32	n/a	n/a
+109.212390	2	cue_social_high	n/a	32	n/a	n/a
+111.143330	1.600574	dec_social_high	1.600574	32	n/a	3
+111.143330	1.600574	dec_social_high_accept	1.600574	32	accept	3
+116.839066	2	cue_social	n/a	32	n/a	n/a
+116.839066	2	cue_social_high	n/a	32	n/a	n/a
+118.793860	1.733640	dec_social_high	1.733640	32	n/a	16
+118.793860	1.733640	dec_social_high_accept	1.733640	32	accept	16
+123.676830	2	cue_social	n/a	16	n/a	n/a
+123.676830	2	cue_social_low	n/a	16	n/a	n/a
+125.627300	3.766946	missed_trial	n/a	16.000000	n/a	n/a
+132.992600	2	cue_social	n/a	16	n/a	n/a
+132.992600	2	cue_social_low	n/a	16	n/a	n/a
+134.893880	0.116905	dec_social_low	0.116905	16	n/a	2
+134.893880	0.116905	dec_social_low_reject	0.116905	16	reject	2
+139.796800	2	cue_social	n/a	16	n/a	n/a
+139.796800	2	cue_social_low	n/a	16	n/a	n/a
+141.725880	1.318156	dec_social_low	1.318156	16	n/a	4
+141.725880	1.318156	dec_social_low_accept	1.318156	16	accept	4
+147.424100	2	cue_social	n/a	16	n/a	n/a
+147.424100	2	cue_social_low	n/a	16	n/a	n/a
+149.360060	1.566362	dec_social_low	1.566362	16	n/a	8
+149.360060	1.566362	dec_social_low_accept	1.566362	16	accept	8
+156.620990	2	cue_nonsocial	n/a	16	n/a	n/a
+156.620990	2	cue_nonsocial_low	n/a	16	n/a	n/a
+158.626830	1.316297	dec_nonsocial_low	1.316297	16	n/a	1
+158.626830	1.316297	dec_nonsocial_low_accept	1.316297	16	accept	1
+164.270840	2	cue_nonsocial	n/a	16	n/a	n/a
+164.270840	2	cue_nonsocial_low	n/a	16	n/a	n/a
+166.277710	3.766946	missed_trial	n/a	16.000000	n/a	n/a
+171.187930	2	cue_social	n/a	16	n/a	n/a
+171.187930	2	cue_social_low	n/a	16	n/a	n/a
+173.128800	1.181380	dec_social_low	1.181380	16	n/a	4
+173.128800	1.181380	dec_social_low_accept	1.181380	16	accept	4
+178.820770	2	cue_social	n/a	16	n/a	n/a
+178.820770	2	cue_social_low	n/a	16	n/a	n/a
+180.776800	2.366984	dec_social_low	2.366984	16	n/a	2
+180.776800	2.366984	dec_social_low_reject	2.366984	16	reject	2
+185.702090	2	cue_social	n/a	32	n/a	n/a
+185.702090	2	cue_social_high	n/a	32	n/a	n/a
+187.610800	1.282975	dec_social_high	1.282975	32	n/a	16
+187.610800	1.282975	dec_social_high_accept	1.282975	32	accept	16
+192.437360	2	cue_nonsocial	n/a	16	n/a	n/a
+192.437360	2	cue_nonsocial_low	n/a	16	n/a	n/a
+194.443500	3.766946	missed_trial	n/a	16.000000	n/a	n/a
+199.288280	2	cue_nonsocial	n/a	32	n/a	n/a
+199.288280	2	cue_nonsocial_high	n/a	32	n/a	n/a
+201.293780	1.249940	dec_nonsocial_high	1.249940	32	n/a	2
+201.293780	1.249940	dec_nonsocial_high_reject	1.249940	32	reject	2
+206.125930	2	cue_nonsocial	n/a	16	n/a	n/a
+206.125930	2	cue_nonsocial_low	n/a	16	n/a	n/a
+208.126830	3.766946	missed_trial	n/a	16.000000	n/a	n/a
+212.970980	2	cue_nonsocial	n/a	16	n/a	n/a
+212.970980	2	cue_nonsocial_low	n/a	16	n/a	n/a
+214.976760	1.399976	dec_nonsocial_low	1.399976	16	n/a	4
+214.976760	1.399976	dec_nonsocial_low_accept	1.399976	16	accept	4
+220.626860	2	cue_nonsocial	n/a	16	n/a	n/a
+220.626860	2	cue_nonsocial_low	n/a	16	n/a	n/a
+222.626720	3.766946	missed_trial	n/a	16.000000	n/a	n/a
+227.507750	2	cue_social	n/a	16	n/a	n/a
+227.507750	2	cue_social_low	n/a	16	n/a	n/a
+229.459720	3.766946	missed_trial	n/a	16.000000	n/a	n/a
+236.719900	2	cue_social	n/a	32	n/a	n/a
+236.719900	2	cue_social_high	n/a	32	n/a	n/a
+238.710660	3.766946	missed_trial	n/a	32.000000	n/a	n/a
+245.987600	2	cue_nonsocial	n/a	16	n/a	n/a
+245.987600	2	cue_nonsocial_low	n/a	16	n/a	n/a
+247.993730	3.766946	missed_trial	n/a	16.000000	n/a	n/a
+252.837950	2	cue_nonsocial	n/a	32	n/a	n/a
+252.837950	2	cue_nonsocial_high	n/a	32	n/a	n/a
+254.842940	0.250432	dec_nonsocial_high	0.250432	32	n/a	3
+254.842940	0.250432	dec_nonsocial_high_reject	0.250432	32	reject	3
+262.148130	2	cue_social	n/a	16	n/a	n/a
+262.148130	2	cue_social_low	n/a	16	n/a	n/a
+264.093700	0.749843	dec_social_low	0.749843	16	n/a	1
+264.093700	0.749843	dec_social_low_accept	0.749843	16	accept	1
+268.920400	2	cue_nonsocial	n/a	32	n/a	n/a
+268.920400	2	cue_nonsocial_high	n/a	32	n/a	n/a
+270.926670	0.033416	dec_nonsocial_high	0.033416	32	n/a	8
+270.926670	0.033416	dec_nonsocial_high_accept	0.033416	32	accept	8
+276.570500	2	cue_nonsocial	n/a	16	n/a	n/a
+276.570500	2	cue_nonsocial_low	n/a	16	n/a	n/a
+278.577300	0.315707	dec_nonsocial_low	0.315707	16	n/a	4
+278.577300	0.315707	dec_nonsocial_low_accept	0.315707	16	accept	4
+283.404020	2	cue_nonsocial	n/a	32	n/a	n/a
+283.404020	2	cue_nonsocial_high	n/a	32	n/a	n/a
+285.410640	1.283122	dec_nonsocial_high	1.283122	32	n/a	16
+285.410640	1.283122	dec_nonsocial_high_accept	1.283122	32	accept	16
+294.311740	2	cue_social	n/a	32	n/a	n/a
+294.311740	2	cue_social_high	n/a	32	n/a	n/a
+296.276760	0.265973	dec_social_high	0.265973	32	n/a	3
+296.276760	0.265973	dec_social_high_accept	0.265973	32	accept	3
+303.578500	2	cue_social	n/a	32	n/a	n/a
+303.578500	2	cue_social_high	n/a	32	n/a	n/a
+305.542600	0.984161	dec_social_high	0.984161	32	n/a	8
+305.542600	0.984161	dec_social_high_accept	0.984161	32	accept	8
+312.884460	2	cue_social	n/a	16	n/a	n/a
+312.884460	2	cue_social_low	n/a	16	n/a	n/a
+314.794620	3.766946	missed_trial	n/a	16.000000	n/a	n/a
+319.665370	2	cue_social	n/a	16	n/a	n/a
+319.665370	2	cue_social_low	n/a	16	n/a	n/a
+321.642600	1.267112	dec_social_low	1.267112	16	n/a	1
+321.642600	1.267112	dec_social_low_accept	1.267112	16	accept	1
+326.470100	2	cue_nonsocial	n/a	16	n/a	n/a
+326.470100	2	cue_nonsocial_low	n/a	16	n/a	n/a
+328.476440	3.766946	missed_trial	n/a	16.000000	n/a	n/a
+333.370150	2	cue_social	n/a	16	n/a	n/a
+333.370150	2	cue_social_low	n/a	16	n/a	n/a
+335.326570	3.766946	missed_trial	n/a	16.000000	n/a	n/a
+345.823200	2	cue_nonsocial	n/a	32	n/a	n/a
+345.823200	2	cue_nonsocial_high	n/a	32	n/a	n/a
+347.827580	3.766946	missed_trial	n/a	32.000000	n/a	n/a
+352.670320	2	cue_nonsocial	n/a	16	n/a	n/a
+352.670320	2	cue_nonsocial_low	n/a	16	n/a	n/a
+354.676540	3.766946	missed_trial	n/a	16.000000	n/a	n/a
+363.615540	2	cue_social	n/a	32	n/a	n/a
+363.615540	2	cue_social_high	n/a	32	n/a	n/a
+365.560580	1.365405	dec_social_high	1.365405	32	n/a	8
+365.560580	1.365405	dec_social_high_reject	1.365405	32	reject	8
+370.373870	2	cue_nonsocial	n/a	16	n/a	n/a
+370.373870	2	cue_nonsocial_low	n/a	16	n/a	n/a
+372.393520	1.165502	dec_nonsocial_low	1.165502	16	n/a	8
+372.393520	1.165502	dec_nonsocial_low_accept	1.165502	16	accept	8
